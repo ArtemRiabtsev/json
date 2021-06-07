@@ -1,0 +1,426 @@
+{
+
+	"sections": [{
+			"oid": 2,
+			"type": "search",
+			"hint": "Поиск продуктов"
+		},
+		{
+			"oid": 1,
+			"type": "storiesBlock",
+			"items": [{
+					"oid": 1,
+					"title": "Тема сторис",
+					"image": "https://images.unsplash.com/photo-1542282088-fe8426682b8f",
+					"viewed": true,
+					"screens": [{
+							"image": "https://images.unsplash.com/photo-1542282088-fe8426682b8f",
+							"title": "Audi first",
+							"description": "Description 1"
+						},
+						{
+							"image": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98",
+							"title": "Audi second",
+							"description": "Description 2"
+						}
+					]
+				},
+				{
+					"oid": 2,
+					"title": "Тема сторис",
+					"image": "https://images.unsplash.com/photo-1552321876-ac707a080f1b",
+					"viewed": false,
+					"screens": [{
+							"image": "https://images.unsplash.com/photo-1552321876-ac707a080f1b",
+							"title": "BMW",
+							"description": "Description"
+						},
+						{
+							"image": "https://images.unsplash.com/photo-1544986342-f4f2e11b7c02",
+							"title": "BMW 2",
+							"description": "Descriptionn"
+						},
+						{
+							"image": "https://images.unsplash.com/photo-1542906042-f41e62496963",
+							"title": "BMW 3",
+							"description": "Descriptionnn"
+						},
+						{
+							"image": "https://images.unsplash.com/photo-1591117728047-2dc00780492c",
+							"title": "BMW 4",
+							"description": "Descriptionnnn"
+						}
+					]
+				},
+				{
+					"oid": 3,
+					"title": "Тема сторис",
+					"image": "https://images.unsplash.com/photo-1546518071-fddcdda7580a",
+					"viewed": false,
+					"screens": [{
+							"image": "https://i.ibb.co/CMnDXbQ/003bd322-5401-4ea5-9da9-d6521c5fb0b2-1.webp",
+							"title": "Mercedes",
+							"description": "Description"
+						},
+						{
+							"image": "https://images.unsplash.com/photo-1570733577524-3a047079e80d",
+							"title": "Mercedes 2",
+							"description": "Descriptionn"
+						},
+						{
+							"image": "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a",
+							"title": "Mercedes 3",
+							"description": "Descriptionnn"
+						}
+					]
+				}
+			]
+		},
+		{
+			"oid": 2,
+			"type": "ordersBlock",
+			"title": "Ваши заказы",
+			"items": [
+			{
+				"oid": 281694020042766,
+				"image": "path to image",
+				"title": "Сыр",
+				"description": "постные, на развес",
+				"price": 1234.56,
+				"oldPrice": 1299.56,
+				"costPer": "string",
+				"promo": "акция -20%",
+				"button": {
+					"title": "string",
+					"colorBG": "78BCD9",
+					"colorTxt": "FFFFFF",
+					"action": {
+						"path": "constant",
+						"params": [{
+								"key": "oid",
+								"value": 123
+							},
+							{
+								"key": "oid_category",
+								"value": 456
+							}
+						]
+					}
+				},
+				"badges": [{
+						"title": "В наличии",
+						"colorText": "#7A7D83",
+						"colorBg": "#E1E8ED"
+					},
+					{
+						"title": "Новый",
+						"colorText": "#7A7D83",
+						"colorBg": "#E1E8ED"
+					}
+				],
+				"items": [{
+				"oid": 281694020042766,
+				"image": "path to image",
+				"title": "Сыр",
+				"description": "постные, на развес",
+				"price": 1234.56,
+				"oldPrice": 1299.56,
+				"costPer": "string",
+				"promo": "акция -20%",
+				"button": {
+					"title": "string",
+					"colorBG": "78BCD9",
+					"colorTxt": "FFFFFF",
+					"action": {
+						"path": "constant",
+						"params": [{
+								"key": "oid",
+								"value": 123
+							},
+							{
+								"key": "oid_category",
+								"value": 456
+							}
+						]
+					}
+				},
+				"badges": [{
+						"title": "В наличии",
+						"colorText": "#7A7D83",
+						"colorBg": "#E1E8ED"
+					},
+					{
+						"title": "Новый",
+						"colorText": "#7A7D83",
+						"colorBg": "#E1E8ED"
+					}
+				]
+			}]
+			}
+			]
+		},
+		{
+			"oid": 6,
+			"type": "bannerBlock",
+			"items": [{
+				"title": "Новая акция “Двойные зёрна”",
+				"description": "Оформляйте заказ с доставкой на воскресенье и получайте зёрна в двойном объёме",
+				"image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf",
+				"badge": "Полезно",
+				"button": {
+					"title": "string",
+					"colorBG": "78BCD9",
+					"colorTxt": "FFFFFF",
+					"action": {
+						"path": "constant",
+						"params": [{
+								"key": "oid",
+								"value": 123
+							},
+							{
+								"key": "oid_category",
+								"value": 456
+							}
+						]
+					}
+				}
+			}]
+		},
+		{
+			"oid": 2,
+			"type": "goodsCarousel",
+			"title": "Ваши заказы",
+			"items": [{
+				"oid": 281694020042766,
+				"image": "path to image",
+				"title": "Сыр",
+				"description": "постные, на развес",
+				"price": 1234.56,
+				"oldPrice": 1299.56,
+				"costPer": "string",
+				"promo": "акция -20%",
+				"button": {
+					"title": "string",
+					"colorBG": "78BCD9",
+					"colorTxt": "FFFFFF",
+					"action": {
+						"path": "constant",
+						"params": [{
+								"key": "oid",
+								"value": 123
+							},
+							{
+								"key": "oid_category",
+								"value": 456
+							}
+						]
+					}
+				},
+				"badges": [{
+						"title": "В наличии",
+						"colorText": "#7A7D83",
+						"colorBg": "#E1E8ED"
+					},
+					{
+						"title": "Новый",
+						"colorText": "#7A7D83",
+						"colorBg": "#E1E8ED"
+					}
+				]
+			}]
+		},
+		{
+			"oid": 6,
+			"type": "bannerBlock",
+			"items": [{
+				"title": "Новая акция “Двойные зёрна”",
+				"description": "Оформляйте заказ с доставкой на воскресенье и получайте зёрна в двойном объёме",
+				"image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf",
+				"badge": "Полезно",
+				"button": {
+					"title": "string",
+					"colorBG": "78BCD9",
+					"colorTxt": "FFFFFF",
+					"action": {
+						"path": "constant",
+						"params": [{
+								"key": "oid",
+								"value": 123
+							},
+							{
+								"key": "oid_category",
+								"value": 456
+							}
+						]
+					}
+				}
+			}]
+		},
+		{
+			"oid": 6,
+			"type": "brands",
+			"items": [{
+					"oid": 123,
+					"image": "path to image",
+					"title": "Молоко",
+					"action": {
+						"path": "constant",
+						"params": [{
+								"key": "oid",
+								"value": 123
+							},
+							{
+								"key": "oid_category",
+								"value": 456
+							}
+						]
+					}
+				},
+				{
+					"oid": 456,
+					"image": "path to image",
+					"title": "Молоко",
+					"action": {
+						"path": "constant",
+						"params": [{
+								"key": "oid",
+								"value": 123
+							},
+							{
+								"key": "oid_category",
+								"value": 456
+							}
+						]
+					}
+				}
+			],
+			"action": {
+				"path": "constant",
+				"params": [{
+						"key": "oid",
+						"value": 123
+					},
+					{
+						"key": "oid_category",
+						"value": 456
+					}
+				]
+			}
+		},
+		{
+			"oid": 8,
+			"type": "popularCategories",
+			"title": "Скидка для владельцев BMW",
+			"items": [{
+					"oid": 123,
+					"image": "path to image",
+					"title": "Молоко",
+					"action": {
+						"path": "constant",
+						"params": [{
+								"key": "oid",
+								"value": 123
+							},
+							{
+								"key": "oid_category",
+								"value": 456
+							}
+						]
+					}
+				},
+				{
+					"oid": 456,
+					"image": "path to image",
+					"title": "Молоко",
+					"action": {
+						"path": "constant",
+						"params": [{
+								"key": "oid",
+								"value": 123
+							},
+							{
+								"key": "oid_category",
+								"value": 456
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"oid": 2,
+			"type": "goodsCarousel",
+			"title": "Ваши заказы",
+			"items": [{
+				"oid": 281694020042766,
+				"image": "path to image",
+				"title": "Сыр",
+				"description": "постные, на развес",
+				"price": 1234.56,
+				"oldPrice": 1299.56,
+				"costPer": "string",
+				"promo": "акция -20%",
+				"button": {
+					"title": "string",
+					"colorBG": "78BCD9",
+					"colorTxt": "FFFFFF",
+					"action": {
+						"path": "constant",
+						"params": [{
+								"key": "oid",
+								"value": 123
+							},
+							{
+								"key": "oid_category",
+								"value": 456
+							}
+						]
+					}
+				},
+				"badges": [{
+						"title": "В наличии",
+						"colorText": "#7A7D83",
+						"colorBg": "#E1E8ED"
+					},
+					{
+						"title": "Новый",
+						"colorText": "#7A7D83",
+						"colorBg": "#E1E8ED"
+					}
+				]
+			}]
+		},
+		{
+			"oid": 2,
+			"type": "contacts",
+			"title": "Контакты",
+			"items": [
+				{
+					"type": "phone",
+					"title": "string",
+					"contact": "string"
+				},
+				{
+					"type": "schedule",
+					"title": "string",
+					"contact": "string"
+				},
+				{
+					"type": "instagram",
+					"title": "string",
+					"contact": "string"
+				},
+				{
+					"type": "facebook",
+					"title": "string",
+					"contact": "string"
+				},
+				{
+					"type": "youtube",
+					"title": "string",
+					"contact": "string"
+				}
+			]
+		}
+	]
+}
