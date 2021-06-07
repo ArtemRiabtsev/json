@@ -15,7 +15,7 @@
                 {
                     "oid": 1,
                     "title": "Тема сторис",
-                    "image": "https://images.unsplash.com/photo-1542282088-fe8426682b8f",
+                    "image": "https://i.ibb.co/D8zX154/Rectangle-7.png",
                     "viewed": true,
                     "screens":
                     [
@@ -34,7 +34,7 @@
                 {
                     "oid": 2,
                     "title": "Тема сторис",
-                    "image": "https://images.unsplash.com/photo-1552321876-ac707a080f1b",
+                    "image": "https://i.ibb.co/Lzq0K0w/Rectangle-7-3.png",
                     "viewed": false,
                     "screens":
                     [
@@ -63,7 +63,7 @@
                 {
                     "oid": 3,
                     "title": "Тема сторис",
-                    "image": "https://images.unsplash.com/photo-1546518071-fddcdda7580a",
+                    "image": "https://i.ibb.co/YR1gvTB/Rectangle-7-2.png",
                     "viewed": false,
                     "screens":
                     [
@@ -137,7 +137,7 @@
                     [
                         {
                             "oid": 281694020042766,
-                            "image": "path to image",
+                            "image": "https://i.ibb.co/9G70kGZ/image-14.png",
                             "title": "Вареники с картофелем и грибами",
                             "description": "постные, на развес",
                             "price": 1234.56,
@@ -179,7 +179,7 @@
                         },
                         {
                             "oid": 281694020042766,
-                            "image": "path to image",
+                            "image": "https://i.ibb.co/Gc1dHCp/image-14-2.png",
                             "title": "Сыр Качотта",
                             "description": "постные, на развес",
                             "price": 1234.56,
@@ -232,7 +232,7 @@
                     "title": "Новая акция “Двойные зёрна”",
                     "type": "regular",
                     "description": "Оформляйте заказ с доставкой на воскресенье и получайте зёрна в двойном объёме",
-                    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf",
+                    "image": "https://i.ibb.co/dPHy85k/bg.png",
                     "badge": "Полезно",
                     "button": {
                         "title": "Подробнее",
@@ -264,7 +264,7 @@
             [
                 {
                     "oid": 281694020042766,
-                    "image": "path to image",
+                    "image": "https://i.ibb.co/9G70kGZ/image-14.png",
                     "title": "Вареники с картофелем и грибами",
                     "description": "постные, на развес",
                     "price": 1234.56,
@@ -306,7 +306,7 @@
                 },
                 {
                     "oid": 281694020042766,
-                    "image": "path to image",
+                    "image": "https://i.ibb.co/Gc1dHCp/image-14-2.png",
                     "title": "Сыр Качотта",
                     "description": "постные, на развес",
                     "price": 1234.56,
@@ -357,7 +357,7 @@
                     "title": "Рядом магазин и кафе «М2 Органик Клуб»",
                     "type": "nearest",
                     "description": "Открыт сегодня до 23:00",
-                    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf",
+                    "image": "https://i.ibb.co/JFBjgn5/avatar.png",
                     "badge": "Полезно",
                     "button": {
                         "title": "500 метров от вас, 3 мин",
@@ -384,7 +384,7 @@
             [
                 {
                     "oid": 123,
-                    "image": "path to image",
+                    "image": "https://i.ibb.co/2hcHd2d/image-16.png",
                     "title": "Молоко",
                     "action": {
                         "path": "constant",
@@ -399,7 +399,7 @@
                 },
                 {
                     "oid": 456,
-                    "image": "path to image",
+                    "image": "https://i.ibb.co/KzSTK2r/image-15.png",
                     "title": "Молоко",
                     "action":
                     {
@@ -428,12 +428,12 @@
         {
             "oid": 8,
             "type": "popularCategories",
-            "title": "Скидка для владельцев BMW",
+            "title": "Популярные категории",
             "items":
             [
                 {
                     "oid": 123,
-                    "image": "path to image",
+                    "image": "https://i.ibb.co/wKPcZtj/Mask-Group.png",
                     "title": "Молоко",
                     "action": {
                         "path": "constant",
@@ -448,7 +448,7 @@
                 },
                 {
                     "oid": 456,
-                    "image": "path to image",
+                    "image": "https://i.ibb.co/6RLjLqb/Mask-Group-2.png",
                     "title": "Йогурт",
                     "action": {
                         "path": "constant",
@@ -467,7 +467,7 @@
                 },
                 {
                     "oid": 123,
-                    "image": "path to image",
+                    "image": "https://i.ibb.co/M2qqxK3/Mask-Group-3.png",
                     "title": "Свинина",
                     "action": {
                         "path": "constant",
@@ -482,7 +482,7 @@
                 },
                 {
                     "oid": 456,
-                    "image": "path to image",
+                    "image": "https://i.ibb.co/m5Lp2Px/Mask-Group-4.png",
                     "title": "Мягкие и творожные сыры",
                     "action": {
                         "path": "constant",
@@ -504,92 +504,93 @@
         {
             "oid": 2,
             "type": "goodsCarousel",
-            "title": "Ваши заказы",
-            "items": [
+            "title": "Новинки от BioGourmet",
+            "items":
+            [
                 {
-                "oid": 281694020042766,
-                "image": "path to image",
-                "title": "Сыр",
-                "description": "постные, на развес",
-                "price": 1234.56,
-                "oldPrice": 1299.56,
-                "costPer": "string",
-                "promo": "акция -20%",
-                "button": {
-                    "title": "string",
-                    "colorBG": "78BCD9",
-                    "colorTxt": "FFFFFF",
-                    "action": {
-                        "path": "constant",
-                        "params":
-                        [
-                            {
-                                "key": "oid",
-                                "value": 123
-                            },
-                            {
-                                "key": "oid_category",
-                                "value": 456
-                            }
-                        ]
-                    }
-                },
-                "badges":
-                [
-                    {
-                        "title": "В наличии",
-                        "colorText": "#7A7D83",
-                        "colorBg": "#E1E8ED"
+                    "oid": 281694020042766,
+                    "image": "https://i.ibb.co/9G70kGZ/image-14.png",
+                    "title": "Вареники с картофелем и грибами",
+                    "description": "постные, на развес",
+                    "price": 1234.56,
+                    "oldPrice": 1299.56,
+                    "costPer": "string",
+                    "promo": "акция -20%",
+                    "button": {
+                        "title": "string",
+                        "colorBG": "78BCD9",
+                        "colorTxt": "FFFFFF",
+                        "action": {
+                            "path": "constant",
+                            "params":
+                            [
+                                {
+                                    "key": "oid",
+                                    "value": 123
+                                },
+                                {
+                                    "key": "oid_category",
+                                    "value": 456
+                                }
+                            ]
+                        }
                     },
-                    {
-                        "title": "Новый",
-                        "colorText": "#7A7D83",
-                        "colorBg": "#E1E8ED"
-                    }
-                ]
-            },
+                    "badges":
+                    [
+                        {
+                            "title": "В наличии",
+                            "colorText": "#7A7D83",
+                            "colorBg": "#E1E8ED"
+                        },
+                        {
+                            "title": "Новый",
+                            "colorText": "#7A7D83",
+                            "colorBg": "#E1E8ED"
+                        }
+                    ]
+                },
                 {
-                "oid": 281694020042766,
-                "image": "path to image",
-                "title": "Сыр",
-                "description": "постные, на развес",
-                "price": 1234.56,
-                "oldPrice": 1299.56,
-                "costPer": "string",
-                "promo": "акция -20%",
-                "button": {
-                    "title": "string",
-                    "colorBG": "78BCD9",
-                    "colorTxt": "FFFFFF",
-                    "action": {
-                        "path": "constant",
-                        "params":
-                        [
-                            {
-                                "key": "oid",
-                                "value": 123
-                            },
-                            {
-                                "key": "oid_category",
-                                "value": 456
-                            }
-                        ]
-                    }
-                },
-                "badges":
-                [
-                    {
-                        "title": "В наличии",
-                        "colorText": "#7A7D83",
-                        "colorBg": "#E1E8ED"
+                    "oid": 281694020042766,
+                    "image": "https://i.ibb.co/Gc1dHCp/image-14-2.png",
+                    "title": "Сыр Качотта",
+                    "description": "постные, на развес",
+                    "price": 1234.56,
+                    "oldPrice": 1299.56,
+                    "costPer": "string",
+                    "promo": "акция -20%",
+                    "button": {
+                        "title": "string",
+                        "colorBG": "78BCD9",
+                        "colorTxt": "FFFFFF",
+                        "action": {
+                            "path": "constant",
+                            "params":
+                            [
+                                {
+                                    "key": "oid",
+                                    "value": 123
+                                },
+                                {
+                                    "key": "oid_category",
+                                    "value": 456
+                                }
+                            ]
+                        }
                     },
-                    {
-                        "title": "Новый",
-                        "colorText": "#7A7D83",
-                        "colorBg": "#E1E8ED"
-                    }
-                ]
-            }
+                    "badges":
+                    [
+                        {
+                            "title": "В наличии",
+                            "colorText": "#7A7D83",
+                            "colorBg": "#E1E8ED"
+                        },
+                        {
+                            "title": "Новый",
+                            "colorText": "#7A7D83",
+                            "colorBg": "#E1E8ED"
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -643,7 +644,7 @@
                     [
                         {
                             "oid": 281694020042766,
-                            "image": "path to image",
+                            "image": "https://i.ibb.co/9G70kGZ/image-14.png",
                             "title": "Вареники с картофелем и грибами",
                             "description": "постные, на развес",
                             "price": 1234.56,
@@ -685,7 +686,7 @@
                         },
                         {
                             "oid": 281694020042766,
-                            "image": "path to image",
+                            "image": "https://i.ibb.co/Gc1dHCp/image-14-2.png",
                             "title": "Сыр Качотта",
                             "description": "постные, на развес",
                             "price": 1234.56,
@@ -738,7 +739,7 @@
                     "title": "Узнайте больше о экопродуктах ",
                     "type": "notification",
                     "description": "",
-                    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf",
+                    "image": "",
                     "badge": "Полезно",
                     "button": {
                         "title": "Узнать",
@@ -765,12 +766,12 @@
         {
             "oid": 2,
             "type": "goodsCarousel",
-            "title": "Ваши заказы",
+            "title": "Товары в избранном",
             "items":
             [
                 {
                     "oid": 281694020042766,
-                    "image": "path to image",
+                    "image": "https://i.ibb.co/9G70kGZ/image-14.png",
                     "title": "Вареники с картофелем и грибами",
                     "description": "постные, на развес",
                     "price": 1234.56,
@@ -812,7 +813,7 @@
                 },
                 {
                     "oid": 281694020042766,
-                    "image": "path to image",
+                    "image": "https://i.ibb.co/Gc1dHCp/image-14-2.png",
                     "title": "Сыр Качотта",
                     "description": "постные, на развес",
                     "price": 1234.56,
