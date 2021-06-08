@@ -99,7 +99,136 @@
                     "costPer": "string",
                     "promo": "акция -20%",
                     "button": {
-                        "title": "string",
+                        "title": "У курьера",
+                        "colorBG": "78BCD9",
+                        "colorTxt": "FFFFFF",
+                        "action": {
+                            "path": "constant",
+                            "params":
+                            [
+                                {
+                                    "key": "oid",
+                                    "value": 123
+                                },
+                                {
+                                    "key": "oid_category",
+                                    "value": 456
+                                }
+                            ]
+                        }
+                    },
+                    "badges":
+                    [
+                        {
+                            "title": "В наличии",
+                            "colorText": "#7A7D83",
+                            "colorBg": "#E1E8ED"
+                        },
+                        {
+                            "title": "Новый",
+                            "colorText": "#7A7D83",
+                            "colorBg": "#E1E8ED"
+                        }
+                    ],
+                    "items":
+                    [
+                        {
+                            "oid": 281694020042766,
+                            "image": "https://i.ibb.co/9G70kGZ/image-14.png",
+                            "title": "Вареники с картофелем и грибами",
+                            "description": "постные, на развес",
+                            "price": 1234.56,
+                            "oldPrice": 1299.56,
+                            "costPer": "string",
+                            "promo": "акция -20%",
+                            "button": {
+                                "title": "string",
+                                "colorBG": "78BCD9",
+                                "colorTxt": "FFFFFF",
+                                "action": {
+                                    "path": "constant",
+                                    "params":
+                                    [
+                                        {
+                                            "key": "oid",
+                                            "value": 123
+                                        },
+                                        {
+                                            "key": "oid_category",
+                                            "value": 456
+                                        }
+                                    ]
+                                }
+                            },
+                            "badges":
+                            [
+                                {
+                                    "title": "В наличии",
+                                    "colorText": "#7A7D83",
+                                    "colorBg": "#E1E8ED"
+                                },
+                                {
+                                    "title": "Новый",
+                                    "colorText": "#7A7D83",
+                                    "colorBg": "#E1E8ED"
+                                }
+                            ]
+                        },
+                        {
+                            "oid": 281694020042766,
+                            "image": "https://i.ibb.co/Gc1dHCp/image-14-2.png",
+                            "title": "Сыр Качотта",
+                            "description": "постные, на развес",
+                            "price": 1234.56,
+                            "oldPrice": 1299.56,
+                            "costPer": "string",
+                            "promo": "акция -20%",
+                            "button": {
+                                "title": "string",
+                                "colorBG": "78BCD9",
+                                "colorTxt": "FFFFFF",
+                                "action": {
+                                    "path": "constant",
+                                    "params":
+                                    [
+                                        {
+                                            "key": "oid",
+                                            "value": 123
+                                        },
+                                        {
+                                            "key": "oid_category",
+                                            "value": 456
+                                        }
+                                    ]
+                                }
+                            },
+                            "badges":
+                            [
+                                {
+                                    "title": "В наличии",
+                                    "colorText": "#7A7D83",
+                                    "colorBg": "#E1E8ED"
+                                },
+                                {
+                                    "title": "Новый",
+                                    "colorText": "#7A7D83",
+                                    "colorBg": "#E1E8ED"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "oid": 281694020042766,
+                    "image": "path to image",
+                    "title": "Доставка сегодня с 9:00 до 12:00",
+                    "description": "3 позиции, 3.4 кг",
+                    "price": 1234.56,
+                    "oldPrice": 1299.56,
+                    "costPer": "string",
+                    "promo": "акция -20%",
+                    "button": {
+                        "title": "У курьера",
                         "colorBG": "78BCD9",
                         "colorTxt": "FFFFFF",
                         "action": {
