@@ -1,13 +1,9 @@
 {
     "welcome": "Доброе утро, Елена!",
     "avatar": "https://i.ibb.co/zFgmcFx/avatar.png",
+    "hint": "Поиск продуктов",
     "sections":
     [
-        {
-            "oid": 2,
-            "type": "search",
-            "hint": "Поиск продуктов"
-        },
         {
             "oid": 1,
             "type": "storiesBlock",
