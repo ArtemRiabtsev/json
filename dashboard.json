@@ -1024,28 +1024,28 @@
             [
                 {
                     "type": "phone",
-                    "title": "string",
-                    "contact": "string"
+                    "title": "Горячая линия",
+                    "contact": "+7 (495) 025-30-30"
                 },
                 {
                     "type": "schedule",
-                    "title": "string",
-                    "contact": "string"
+                    "title": "Режим работы",
+                    "contact": "с 9:00 до 21:00, без выходных"
                 },
                 {
                     "type": "instagram",
                     "title": "string",
-                    "contact": "string"
+                    "contact": "url"
                 },
                 {
                     "type": "facebook",
                     "title": "string",
-                    "contact": "string"
+                    "contact": "url"
                 },
                 {
                     "type": "youtube",
                     "title": "string",
-                    "contact": "string"
+                    "contact": "url"
                 }
             ]
         }
