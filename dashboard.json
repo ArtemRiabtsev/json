@@ -859,13 +859,12 @@
         },
         {
             "oid": 26,
-            "type": "bannerBlock",
+            "type": "bannerBlockNotification",
             "items":
             [
                 {
                     "oid": 13,
                     "title": "Узнайте больше о экопродуктах ",
-                    "type": "notification",
                     "description": "",
                     "image": "",
                     "badge": "Полезно",
