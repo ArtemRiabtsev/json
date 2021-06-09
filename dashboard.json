@@ -477,13 +477,12 @@
         },
         {
             "oid": 16,
-            "type": "bannerBlock",
+            "type": "bannerBlockNearest",
             "items":
             [
                 {
                     "oid": 12,
                     "title": "Рядом магазин и кафе «М2 Органик Клуб»",
-                    "type": "nearest",
                     "description": "Открыт сегодня до 23:00",
                     "image": "https://i.ibb.co/JFBjgn5/avatar.png",
                     "badge": "Полезно",
