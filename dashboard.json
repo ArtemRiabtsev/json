@@ -507,6 +507,7 @@
         {
             "oid": 6,
             "type": "brands",
+            "title": "Наши бренды",
             "items":
             [
                 {
