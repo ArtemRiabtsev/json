@@ -356,15 +356,14 @@
             [
                 {
                     "oid": 11,
-                    "title": "Новая акция “Двойные зёрна”",
-                    "type": "regular",
+                    "title": "Новая акция\n“Двойные зёрна”",
                     "description": "Оформляйте заказ с доставкой на воскресенье и получайте зёрна в двойном объёме",
                     "image": "https://i.ibb.co/dPHy85k/bg.png",
                     "badge": "Полезно",
                     "button": {
                         "title": "Подробнее",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
+                        "colorBG": "FFFFFF",
+                        "colorTxt": "000000",
                         "action": {
                             "path": "constant",
                             "params":
@@ -372,10 +371,6 @@
                                 {
                                     "key": "oid",
                                     "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
                                 }
                             ]
                         }
