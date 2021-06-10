@@ -1899,17 +1899,17 @@
                 {
                     "type": "instagram",
                     "title": "string",
-                    "contact": "url"
+                    "contact": "https://www.instagram.com/m2organicclub/"
                 },
                 {
                     "type": "facebook",
                     "title": "string",
-                    "contact": "url"
+                    "contact": "https://www.facebook.com/m2organic.cafe/"
                 },
                 {
                     "type": "youtube",
                     "title": "string",
-                    "contact": "url"
+                    "contact": "https://www.youtube.com/channel/UCEGsvQ_hOLrlmgnTHNw4bYw"
                 }
             ]
         }
