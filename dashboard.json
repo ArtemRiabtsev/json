@@ -96,7 +96,7 @@
                     "description": "3 позиции, 3.4 кг",
                     "price": 1234.56,
                     "oldPrice": 1299.56,
-                    "costPer": "string",
+                    "costPer": "за 100 грамм",
                     "promo": "акция -20%",
                     "button": {
                         "title": "У курьера",
@@ -139,7 +139,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "oldPrice": 1299.56,
-                            "costPer": "string",
+                            "costPer": "за 100 грамм",
                             "promo": "акция -20%",
                             "button": {
                                 "title": "string",
@@ -181,7 +181,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "oldPrice": 1299.56,
-                            "costPer": "string",
+                            "costPer": "за 100 грамм",
                             "promo": "акция -20%",
                             "button": {
                                 "title": "string",
@@ -225,7 +225,7 @@
                     "description": "3 позиции, 3.4 кг",
                     "price": 1234.56,
                     "oldPrice": 1299.56,
-                    "costPer": "string",
+                    "costPer": "за 100 грамм",
                     "promo": "акция -20%",
                     "button": {
                         "title": "У курьера",
@@ -268,7 +268,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "oldPrice": 1299.56,
-                            "costPer": "string",
+                            "costPer": "за 100 грамм",
                             "promo": "акция -20%",
                             "button": {
                                 "title": "string",
@@ -310,7 +310,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "oldPrice": 1299.56,
-                            "costPer": "string",
+                            "costPer": "за 100 грамм",
                             "promo": "акция -20%",
                             "button": {
                                 "title": "string",
@@ -395,7 +395,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "oldPrice": 1299.56,
-                    "costPer": "string",
+                    "costPer": "за 100 грамм",
                     "promo": "акция -20%",
                     "button": {
                         "title": "string",
@@ -437,7 +437,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "oldPrice": 1299.56,
-                    "costPer": "string",
+                    "costPer": "за 100 грамм",
                     "promo": "акция -20%",
                     "button": {
                         "title": "string",
@@ -520,7 +520,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "oldPrice": 1299.56,
-                    "costPer": "string",
+                    "costPer": "за 100 грамм",
                     "promo": "акция -20%",
                     "button": {
                         "title": "string",
@@ -562,7 +562,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "oldPrice": 1299.56,
-                    "costPer": "string",
+                    "costPer": "за 100 грамм",
                     "promo": "акция -20%",
                     "button": {
                         "title": "string",
@@ -604,7 +604,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "oldPrice": 1299.56,
-                    "costPer": "string",
+                    "costPer": "за 100 грамм",
                     "promo": "акция -20%",
                     "button": {
                         "title": "string",
@@ -646,7 +646,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "oldPrice": 1299.56,
-                    "costPer": "string",
+                    "costPer": "за 100 грамм",
                     "promo": "акция -20%",
                     "button": {
                         "title": "string",
@@ -858,7 +858,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "oldPrice": 1299.56,
-                    "costPer": "string",
+                    "costPer": "за 100 грамм",
                     "promo": "акция -20%",
                     "button": {
                         "title": "string",
@@ -900,7 +900,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "oldPrice": 1299.56,
-                    "costPer": "string",
+                    "costPer": "за 100 грамм",
                     "promo": "акция -20%",
                     "button": {
                         "title": "string",
@@ -950,7 +950,7 @@
                     "description": "3 позиции, 3.4 кг",
                     "price": 1234.56,
                     "oldPrice": 1299.56,
-                    "costPer": "string",
+                    "costPer": "за 100 грамм",
                     "promo": "акция -20%",
                     "button": {
                         "title": "string",
@@ -993,7 +993,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "oldPrice": 1299.56,
-                            "costPer": "string",
+                            "costPer": "за 100 грамм",
                             "promo": "акция -20%",
                             "button": {
                                 "title": "string",
@@ -1035,7 +1035,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "oldPrice": 1299.56,
-                            "costPer": "string",
+                            "costPer": "за 100 грамм",
                             "promo": "акция -20%",
                             "button": {
                                 "title": "string",
@@ -1124,7 +1124,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "oldPrice": 1299.56,
-                    "costPer": "string",
+                    "costPer": "за 100 грамм",
                     "promo": "акция -20%",
                     "button": {
                         "title": "string",
@@ -1166,7 +1166,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "oldPrice": 1299.56,
-                    "costPer": "string",
+                    "costPer": "за 100 грамм",
                     "promo": "акция -20%",
                     "button": {
                         "title": "string",
