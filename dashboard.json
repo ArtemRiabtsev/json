@@ -180,9 +180,7 @@
                             "title": "Сыр Качотта",
                             "description": "постные, на развес",
                             "price": 1234.56,
-                            "oldPrice": 1299.56,
                             "costPer": "за 100 грамм",
-                            "promo": "акция -20%",
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -309,9 +307,7 @@
                             "title": "Сыр Качотта",
                             "description": "постные, на развес",
                             "price": 1234.56,
-                            "oldPrice": 1299.56,
                             "costPer": "за 100 грамм",
-                            "promo": "акция -20%",
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -436,9 +432,7 @@
                     "title": "Сыр Качотта",
                     "description": "постные, на развес",
                     "price": 1234.56,
-                    "oldPrice": 1299.56,
                     "costPer": "за 100 грамм",
-                    "promo": "акция -20%",
                     "button": {
                         "title": "string",
                         "colorBG": "78BCD9",
@@ -561,9 +555,7 @@
                     "title": "Сыр Качотта",
                     "description": "постные, на развес",
                     "price": 1234.56,
-                    "oldPrice": 1299.56,
                     "costPer": "за 100 грамм",
-                    "promo": "акция -20%",
                     "button": {
                         "title": "string",
                         "colorBG": "78BCD9",
@@ -645,9 +637,7 @@
                     "title": "Сыр Качотта",
                     "description": "постные, на развес",
                     "price": 1234.56,
-                    "oldPrice": 1299.56,
                     "costPer": "за 100 грамм",
-                    "promo": "акция -20%",
                     "button": {
                         "title": "string",
                         "colorBG": "78BCD9",
@@ -899,9 +889,7 @@
                     "title": "Сыр Качотта",
                     "description": "постные, на развес",
                     "price": 1234.56,
-                    "oldPrice": 1299.56,
                     "costPer": "за 100 грамм",
-                    "promo": "акция -20%",
                     "button": {
                         "title": "string",
                         "colorBG": "78BCD9",
@@ -1034,9 +1022,7 @@
                             "title": "Сыр Качотта",
                             "description": "постные, на развес",
                             "price": 1234.56,
-                            "oldPrice": 1299.56,
                             "costPer": "за 100 грамм",
-                            "promo": "акция -20%",
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -1165,9 +1151,7 @@
                     "title": "Сыр Качотта",
                     "description": "постные, на развес",
                     "price": 1234.56,
-                    "oldPrice": 1299.56,
                     "costPer": "за 100 грамм",
-                    "promo": "акция -20%",
                     "button": {
                         "title": "string",
                         "colorBG": "78BCD9",
