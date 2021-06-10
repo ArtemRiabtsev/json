@@ -357,6 +357,10 @@
                 {
                     "oid": 11,
                     "title": "Новая акция\n“Двойные зёрна”",
+                    "bannerAttributes": {
+                      "titleColor": "FFFFFF",
+                      "descriptionColor": "FFFFFF"
+                    },
                     "description": "Оформляйте заказ с доставкой на воскресенье и получайте зёрна в двойном объёме",
                     "image": "https://i.ibb.co/dPHy85k/bg.png",
                     "badge": "Полезно",
@@ -478,6 +482,10 @@
                 {
                     "oid": 12,
                     "title": "Рядом магазин и кафе «М2 Органик Клуб»",
+                    "bannerAttributes": {
+                      "titleColor": "FFFFFF",
+                      "descriptionColor": "FFFFFF"
+                    },
                     "description": "Открыт сегодня до 23:00",
                     "image": "https://i.ibb.co/JFBjgn5/avatar.png",
                     "badge": "Полезно",
@@ -683,7 +691,10 @@
                 {
                     "oid": 11,
                     "title": "Новая акция “Двойные зёрна”",
-                    "type": "regular",
+                    "bannerAttributes": {
+                      "titleColor": "FFFFFF",
+                      "descriptionColor": "FFFFFF"
+                    },
                     "description": "Оформляйте заказ с доставкой на воскресенье и получайте зёрна в двойном объёме",
                     "image": "https://i.ibb.co/dPHy85k/bg.png",
                     "badge": "Полезно",
@@ -1071,6 +1082,10 @@
                 {
                     "oid": 13,
                     "title": "Узнайте больше о экопродуктах ",
+                    "bannerAttributes": {
+                      "titleColor": "252423",
+                      "descriptionColor": "FFFFFF"
+                    },
                     "description": "",
                     "image": "",
                     "badge": "Полезно",
@@ -1196,6 +1211,10 @@
                 {
                     "oid": 14,
                     "title": "Органическая Ферма М2",
+                    "bannerAttributes": {
+                      "titleColor": "252423",
+                      "descriptionColor": "252423"
+                    },
                     "description": "Органическое фермерское хозяйство М2 построено на берегу Рузского водохранилища. Мы никогда не используем гармоны для усиления роста и лактации, антибиотики, ГМО и любые химические компоненты.",
                     "image": "https://i.ibb.co/khkT5B9/banner.jpg",
                     "badge": "Полезно",
