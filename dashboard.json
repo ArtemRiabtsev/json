@@ -14,6 +14,10 @@
                     "title": "Тема сторис",
                     "image": "https://i.ibb.co/D8zX154/Rectangle-7.png",
                     "viewed": true,
+                    "gradient": {
+                        "startColor": "E58F8D",
+                        "endColor": "CD6541"
+                    },
                     "screens":
                     [
                         {
@@ -61,7 +65,11 @@
                     "oid": 3,
                     "title": "Тема сторис",
                     "image": "https://i.ibb.co/YR1gvTB/Rectangle-7-2.png",
-                    "viewed": false,
+                    "viewed": true,
+                    "gradient": {
+                        "startColor": "C3799B",
+                        "endColor": "7292CB"
+                    },
                     "screens":
                     [
                         {
