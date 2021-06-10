@@ -98,6 +98,7 @@
                     "oldPrice": 1299.56,
                     "costPer": "за 100 грамм",
                     "promo": "акция -20%",
+                    "labels": ["pertnership", "eco", "steam"],
                     "button": {
                         "title": "У курьера",
                         "colorBG": "78BCD9",
@@ -141,6 +142,7 @@
                             "oldPrice": 1299.56,
                             "costPer": "за 100 грамм",
                             "promo": "акция -20%",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -181,6 +183,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "costPer": "за 100 грамм",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -223,6 +226,7 @@
                             "oldPrice": 1299.56,
                             "costPer": "за 100 грамм",
                             "promo": "акция -20%",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -263,6 +267,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "costPer": "за 100 грамм",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -304,6 +309,7 @@
                             "price": 1234.56,
                             "oldPrice": 1299.56,
                             "costPer": "за 100 грамм",
+                            "labels": ["pertnership", "eco", "steam"],
                             "promo": "акция -20%",
                             "button": {
                                 "title": "string",
@@ -345,6 +351,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "costPer": "за 100 грамм",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -386,6 +393,7 @@
                             "price": 1234.56,
                             "oldPrice": 1299.56,
                             "costPer": "за 100 грамм",
+                            "labels": ["pertnership", "eco", "steam"],
                             "promo": "акция -20%",
                             "button": {
                                 "title": "string",
@@ -427,6 +435,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "costPer": "за 100 грамм",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -468,6 +477,7 @@
                             "price": 1234.56,
                             "oldPrice": 1299.56,
                             "costPer": "за 100 грамм",
+                            "labels": ["pertnership", "eco", "steam"],
                             "promo": "акция -20%",
                             "button": {
                                 "title": "string",
@@ -509,6 +519,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "costPer": "за 100 грамм",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -553,6 +564,7 @@
                     "oldPrice": 1299.56,
                     "costPer": "за 100 грамм",
                     "promo": "акция -20%",
+                    "labels": ["pertnership", "eco", "steam"],
                     "button": {
                         "title": "У курьера",
                         "colorBG": "78BCD9",
@@ -596,6 +608,7 @@
                             "oldPrice": 1299.56,
                             "costPer": "за 100 грамм",
                             "promo": "акция -20%",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -636,6 +649,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "costPer": "за 100 грамм",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -678,6 +692,7 @@
                             "oldPrice": 1299.56,
                             "costPer": "за 100 грамм",
                             "promo": "акция -20%",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -718,6 +733,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "costPer": "за 100 грамм",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -760,6 +776,7 @@
                             "oldPrice": 1299.56,
                             "costPer": "за 100 грамм",
                             "promo": "акция -20%",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -800,6 +817,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "costPer": "за 100 грамм",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -842,6 +860,7 @@
                             "oldPrice": 1299.56,
                             "costPer": "за 100 грамм",
                             "promo": "акция -20%",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -882,6 +901,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "costPer": "за 100 грамм",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -924,6 +944,7 @@
                             "oldPrice": 1299.56,
                             "costPer": "за 100 грамм",
                             "promo": "акция -20%",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -964,6 +985,7 @@
                             "description": "постные, на развес",
                             "price": 1234.56,
                             "costPer": "за 100 грамм",
+                            "labels": ["pertnership", "eco", "steam"],
                             "button": {
                                 "title": "string",
                                 "colorBG": "78BCD9",
@@ -1049,6 +1071,7 @@
                     "oldPrice": 1299.56,
                     "costPer": "за 100 грамм",
                     "promo": "акция -20%",
+                    "labels": ["pertnership", "eco", "steam"],
                     "button": {
                         "title": "string",
                         "colorBG": "78BCD9",
@@ -1089,6 +1112,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "costPer": "за 100 грамм",
+                    "labels": ["pertnership", "eco", "steam"],
                     "button": {
                         "title": "string",
                         "colorBG": "78BCD9",
@@ -1172,6 +1196,7 @@
                     "oldPrice": 1299.56,
                     "costPer": "за 100 грамм",
                     "promo": "акция -20%",
+                    "labels": ["pertnership", "eco", "steam"],
                     "button": {
                         "title": "string",
                         "colorBG": "78BCD9",
@@ -1212,6 +1237,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "costPer": "за 100 грамм",
+                    "labels": ["pertnership", "eco", "steam"],
                     "button": {
                         "title": "string",
                         "colorBG": "78BCD9",
@@ -1253,6 +1279,7 @@
                     "price": 1234.56,
                     "oldPrice": 1299.56,
                     "costPer": "за 100 грамм",
+                    "labels": ["pertnership", "eco", "steam"],
                     "promo": "акция -20%",
                     "button": {
                         "title": "string",
@@ -1294,6 +1321,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "costPer": "за 100 грамм",
+                    "labels": ["pertnership", "eco", "steam"],
                     "button": {
                         "title": "string",
                         "colorBG": "78BCD9",
@@ -1505,6 +1533,7 @@
                     "price": 1234.56,
                     "oldPrice": 1299.56,
                     "costPer": "за 100 грамм",
+                    "labels": ["pertnership", "eco", "steam"],
                     "promo": "акция -20%",
                     "button": {
                         "title": "string",
@@ -1546,6 +1575,7 @@
                     "description": "постные, на развес",
                     "price": 1234.56,
                     "costPer": "за 100 грамм",
+                    "labels": ["pertnership", "eco", "steam"],
                     "button": {
                         "title": "string",
                         "colorBG": "78BCD9",
@@ -1596,6 +1626,7 @@
                     "oldPrice": 1299.56,
                     "costPer": "за 100 грамм",
                     "promo": "акция -20%",
+                    "labels": ["pertnership", "eco", "steam"],
                     "button": {
                         "title": "Заказать",
                         "colorBG": "7FAA11",
