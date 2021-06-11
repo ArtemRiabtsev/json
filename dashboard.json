@@ -2,24 +2,21 @@
     "welcome": "Доброе утро, Елена!",
     "avatar": "https://i.ibb.co/zFgmcFx/avatar.png",
     "hint": "Поиск продуктов",
-    "sections":
-    [
+    "sections": [
         {
             "oid": 1,
             "type": "storiesBlock",
-            "items":
-            [
+            "items": [
                 {
                     "oid": 1,
                     "title": "Тема сторис",
                     "image": "https://i.ibb.co/D8zX154/Rectangle-7.png",
                     "viewed": true,
                     "gradient": {
-                        "startColor": "E58F8D",
-                        "endColor": "CD6541"
+                        "startColor": "#E58F8D",
+                        "endColor": "#CD6541"
                     },
-                    "screens":
-                    [
+                    "screens": [
                         {
                             "image": "https://images.unsplash.com/photo-1542282088-fe8426682b8f",
                             "title": "Audi first",
@@ -37,8 +34,7 @@
                     "title": "Тема сторис",
                     "image": "https://i.ibb.co/Lzq0K0w/Rectangle-7-3.png",
                     "viewed": false,
-                    "screens":
-                    [
+                    "screens": [
                         {
                             "image": "https://images.unsplash.com/photo-1552321876-ac707a080f1b",
                             "title": "BMW",
@@ -67,11 +63,10 @@
                     "image": "https://i.ibb.co/YR1gvTB/Rectangle-7-2.png",
                     "viewed": true,
                     "gradient": {
-                        "startColor": "C3799B",
-                        "endColor": "7292CB"
+                        "startColor": "#C3799B",
+                        "endColor": "#7292CB"
                     },
-                    "screens":
-                    [
+                    "screens": [
                         {
                             "image": "https://i.ibb.co/CMnDXbQ/003bd322-5401-4ea5-9da9-d6521c5fb0b2-1.webp",
                             "title": "Mercedes",
@@ -95,1355 +90,199 @@
             "oid": 2,
             "type": "ordersBlock",
             "title": "Ваши заказы",
-            "items":
-            [
+            "items": [
                 {
                     "oid": 281694020042766,
-                    "image": "path to image",
                     "title": "Доставка сегодня с 9:00 до 12:00",
                     "description": "3 позиции, 3.4 кг",
-                    "price": 1234.56,
-                    "oldPrice": 1299.56,
-                    "costPer": "за 100 грамм",
-                    "promo": "акция -20%",
-                    "labels": ["pertnership", "eco", "steam"],
-                    "button": {
+                    "price": 3500,
+                    "badge": {
                         "title": "У курьера",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
-                        }
+                        "colorBG": "#78BCD9",
+                        "colorTxt": "#FFFFFF"
                     },
-                    "badges":
-                    [
+                    "items": [
                         {
-                            "title": "В наличии",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
+                            "oid": 1,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
                         },
                         {
-                            "title": "Новый",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        }
-                    ],
-                    "items":
-                    [
-                        {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                            "title": "Вареники с картофелем и грибами",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "oldPrice": 1299.56,
-                            "costPer": "за 100 грамм",
-                            "promo": "акция -20%",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 2,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                            "title": "Сыр Качотта",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "costPer": "за 100 грамм",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 3,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                            "title": "Вареники с картофелем и грибами",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "oldPrice": 1299.56,
-                            "costPer": "за 100 грамм",
-                            "promo": "акция -20%",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 4,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                            "title": "Сыр Качотта",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "costPer": "за 100 грамм",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 5,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                            "title": "Вареники с картофелем и грибами",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "oldPrice": 1299.56,
-                            "costPer": "за 100 грамм",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "promo": "акция -20%",
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 6,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                            "title": "Сыр Качотта",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "costPer": "за 100 грамм",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 7,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                            "title": "Вареники с картофелем и грибами",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "oldPrice": 1299.56,
-                            "costPer": "за 100 грамм",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "promo": "акция -20%",
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 8,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                            "title": "Сыр Качотта",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "costPer": "за 100 грамм",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 9,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                            "title": "Вареники с картофелем и грибами",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "oldPrice": 1299.56,
-                            "costPer": "за 100 грамм",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "promo": "акция -20%",
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
-                        },
-                        {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                            "title": "Сыр Качотта",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "costPer": "за 100 грамм",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 10,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
                         }
                     ]
                 },
                 {
                     "oid": 281694020042766,
-                    "image": "path to image",
                     "title": "Доставка сегодня с 9:00 до 12:00",
-                    "description": "3 позиции, 3.4 кг",
-                    "price": 1234.56,
-                    "oldPrice": 1299.56,
-                    "costPer": "за 100 грамм",
-                    "promo": "акция -20%",
-                    "labels": ["pertnership", "eco", "steam"],
-                    "button": {
+                    "subtitle": "3 позиции, 3.4 кг",
+                    "price": 3500,
+                    "badge": {
                         "title": "У курьера",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
-                        }
+                        "colorBG": "#78BCD9",
+                        "colorTxt": "#FFFFFF"
                     },
-                    "badges":
-                    [
+                    "items": [
                         {
-                            "title": "В наличии",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
+                            "oid": 1,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
                         },
                         {
-                            "title": "Новый",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        }
-                    ],
-                    "items":
-                    [
-                        {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                            "title": "Вареники с картофелем и грибами",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "oldPrice": 1299.56,
-                            "costPer": "за 100 грамм",
-                            "promo": "акция -20%",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 2,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                            "title": "Сыр Качотта",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "costPer": "за 100 грамм",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 3,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                            "title": "Вареники с картофелем и грибами",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "oldPrice": 1299.56,
-                            "costPer": "за 100 грамм",
-                            "promo": "акция -20%",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 4,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                            "title": "Сыр Качотта",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "costPer": "за 100 грамм",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 5,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                            "title": "Вареники с картофелем и грибами",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "oldPrice": 1299.56,
-                            "costPer": "за 100 грамм",
-                            "promo": "акция -20%",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 6,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                            "title": "Сыр Качотта",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "costPer": "за 100 грамм",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 7,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                            "title": "Вареники с картофелем и грибами",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "oldPrice": 1299.56,
-                            "costPer": "за 100 грамм",
-                            "promo": "акция -20%",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 8,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                            "title": "Сыр Качотта",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "costPer": "за 100 грамм",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 9,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                            "title": "Вареники с картофелем и грибами",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "oldPrice": 1299.56,
-                            "costPer": "за 100 грамм",
-                            "promo": "акция -20%",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
-                        },
-                        {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                            "title": "Сыр Качотта",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "costPer": "за 100 грамм",
-                            "labels": ["pertnership", "eco", "steam"],
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 10,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
                         }
                     ]
                 }
             ]
         },
         {
-            "oid": 46,
+            "oid": 3,
             "type": "bannerBlock",
-            "items":
-            [
-                {
-                    "oid": 11,
-                    "title": "Новая акция\n“Двойные зёрна”",
-                    "bannerAttributes": {
-                      "titleColor": "FFFFFF",
-                      "descriptionColor": "FFFFFF"
-                    },
-                    "description": "Оформляйте заказ с доставкой на воскресенье и получайте зёрна в двойном объёме",
-                    "image": "https://i.ibb.co/dPHy85k/bg.png",
-                    "badge": "Полезно",
-                    "button": {
-                        "title": "Подробнее",
-                        "colorBG": "FFFFFF",
-                        "colorTxt": "000000",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                }
-                            ]
+            "title": "Новая акция\n“Двойные зёрна”",
+            "titleColor": "#FFFFFF",
+            "descriptionColor": "#FFFFFF",
+            "description": "Оформляйте заказ с доставкой на воскресенье и получайте зёрна в двойном объёме",
+            "image": "https://i.ibb.co/dPHy85k/bg.png",
+            "button": {
+                "title": "Подробнее",
+                "colorBG": "#FFFFFF",
+                "colorTxt": "#252423",
+                "action": {
+                    "path": "constant",
+                    "params": [
+                        {
+                            "key": "oid",
+                            "value": 123
                         }
-                    }
+                    ]
                 }
-            ]
+            }
         },
         {
-            "oid": 2,
+            "oid": 4,
             "type": "goodsCarousel",
             "title": "ТОП 5 товаров недели",
-            "items":
-            [
+            "items": [
                 {
-                    "oid": 281694020042766,
+                    "oid": 1,
                     "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
                     "title": "Вареники с картофелем и грибами",
                     "description": "постные, на развес",
-                    "price": 1234.56,
-                    "oldPrice": 1299.56,
+                    "price": 74,
+                    "oldPrice": 105,
                     "costPer": "за 100 грамм",
                     "promo": "акция -20%",
-                    "labels": ["pertnership", "eco", "steam"],
-                    "button": {
-                        "title": "string",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
-                        }
-                    },
-                    "badges":
-                    [
-                        {
-                            "title": "В наличии",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        },
-                        {
-                            "title": "Новый",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        }
+                    "labels": [
+                        "pertnership",
+                        "eco",
+                        "steam"
                     ]
                 },
                 {
-                    "oid": 281694020042766,
+                    "oid": 2,
                     "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
                     "title": "Сыр Качотта",
                     "description": "постные, на развес",
-                    "price": 1234.56,
+                    "price": 120,
                     "costPer": "за 100 грамм",
-                    "labels": ["pertnership", "eco", "steam"],
-                    "button": {
-                        "title": "string",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
-                        }
-                    },
-                    "badges":
-                    [
-                        {
-                            "title": "В наличии",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        },
-                        {
-                            "title": "Новый",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        }
+                    "labels": [
+                        "eco"
+                    ]
+                },
+                {
+                    "oid": 3,
+                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "title": "Вареники с картофелем и грибами",
+                    "description": "постные, на развес",
+                    "price": 74,
+                    "oldPrice": 105,
+                    "costPer": "за 100 грамм",
+                    "promo": "акция -20%",
+                    "labels": [
+                        "pertnership",
+                        "eco",
+                        "steam"
                     ]
                 }
             ]
         },
         {
-            "oid": 16,
+            "oid": 5,
             "type": "bannerBlockNearest",
-            "items":
-            [
-                {
-                    "oid": 12,
-                    "title": "Рядом магазин и кафе «М2 Органик Клуб»",
-                    "bannerAttributes": {
-                      "titleColor": "FFFFFF",
-                      "descriptionColor": "FFFFFF"
-                    },
-                    "description": "Открыт сегодня до 23:00",
-                    "image": "https://i.ibb.co/JFBjgn5/avatar.png",
-                    "badge": "Полезно",
-                    "button": {
-                        "title": "500 метров от вас, 3 мин",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                }
-                            ]
-                        }
-                    }
-                }
-            ]
-        },
-        {
-            "oid": 2,
-            "type": "goodsCarousel",
-            "title": "Товары со скидкой",
-            "items":
-            [
-                {
-                    "oid": 281694020042766,
-                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                    "title": "Вареники с картофелем и грибами",
-                    "description": "постные, на развес",
-                    "price": 1234.56,
-                    "oldPrice": 1299.56,
-                    "costPer": "за 100 грамм",
-                    "promo": "акция -20%",
-                    "labels": ["pertnership", "eco", "steam"],
-                    "button": {
-                        "title": "string",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
-                        }
-                    },
-                    "badges":
-                    [
-                        {
-                            "title": "В наличии",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        },
-                        {
-                            "title": "Новый",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        }
-                    ]
-                },
-                {
-                    "oid": 281694020042766,
-                    "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                    "title": "Сыр Качотта",
-                    "description": "постные, на развес",
-                    "price": 1234.56,
-                    "costPer": "за 100 грамм",
-                    "labels": ["pertnership", "eco", "steam"],
-                    "button": {
-                        "title": "string",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
-                        }
-                    },
-                    "badges":
-                    [
-                        {
-                            "title": "В наличии",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        },
-                        {
-                            "title": "Новый",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        }
-                    ]
-                },
-                {
-                    "oid": 281694020042766,
-                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                    "title": "Вареники с картофелем и грибами",
-                    "description": "постные, на развес",
-                    "price": 1234.56,
-                    "oldPrice": 1299.56,
-                    "costPer": "за 100 грамм",
-                    "labels": ["pertnership", "eco", "steam"],
-                    "promo": "акция -20%",
-                    "button": {
-                        "title": "string",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
-                        }
-                    },
-                    "badges":
-                    [
-                        {
-                            "title": "В наличии",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        },
-                        {
-                            "title": "Новый",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        }
-                    ]
-                },
-                {
-                    "oid": 281694020042766,
-                    "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                    "title": "Сыр Качотта",
-                    "description": "постные, на развес",
-                    "price": 1234.56,
-                    "costPer": "за 100 грамм",
-                    "labels": ["pertnership", "eco", "steam"],
-                    "button": {
-                        "title": "string",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
-                        }
-                    },
-                    "badges":
-                    [
-                        {
-                            "title": "В наличии",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        },
-                        {
-                            "title": "Новый",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "oid": 46,
-            "type": "bannerBlock",
-            "items":
-            [
-                {
-                    "oid": 11,
-                    "title": "Новая акция “Двойные зёрна”",
-                    "bannerAttributes": {
-                      "titleColor": "FFFFFF",
-                      "descriptionColor": "FFFFFF"
-                    },
-                    "description": "Оформляйте заказ с доставкой на воскресенье и получайте зёрна в двойном объёме",
-                    "image": "https://i.ibb.co/dPHy85k/bg.png",
-                    "badge": "Полезно",
-                    "button": {
-                        "title": "Подробнее",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
-                        }
-                    }
-                }
-            ]
-        },
-        {
-            "oid": 6,
-            "type": "brands",
-            "title": "Наши бренды",
-            "items":
-            [
-                {
-                    "oid": 123,
-                    "image": "https://i.ibb.co/2hcHd2d/image-16.png",
-                    "title": "Молоко",
-                    "action": {
-                        "path": "constant",
-                        "params":
-                        [
-                            {
-                                "key": "oid",
-                                "value": 123
-                            }
-                        ]
-                    }
-                },
-                {
-                    "oid": 456,
-                    "image": "https://i.ibb.co/KzSTK2r/image-15.png",
-                    "title": "Молоко",
-                    "action":
-                    {
-                        "path": "constant",
-                        "params":
-                        [
-                            {
-                                "key": "oid",
-                                "value": 123
-                            }
-                        ]
-                    }
-                }
-            ],
+            "title": "Рядом магазин и кафе «М2 Органик Клуб»",
+            "titleColor": "#FFFFFF",
+            "descriptionColor": "#FFFFFF",
+            "backgroundColor": "#FFFFFF",
+            "description": "Открыт сегодня до 23:00",
+            "image": "https://i.ibb.co/JFBjgn5/avatar.png",
+            "distance": "500 метров от вас, 3 мин",
             "action": {
                 "path": "constant",
-                "params":
-                [
+                "params": [
                     {
                         "key": "oid",
                         "value": 123
@@ -1452,197 +291,189 @@
             }
         },
         {
+            "oid": 6,
+            "type": "goodsCarousel",
+            "title": "Товары со скидкой",
+            "items": [
+                {
+                    "oid": 1,
+                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "title": "Вареники с картофелем и грибами",
+                    "description": "постные, на развес",
+                    "price": 74,
+                    "oldPrice": 105,
+                    "costPer": "за 100 грамм",
+                    "promo": "акция -20%",
+                    "labels": [
+                        "pertnership",
+                        "eco",
+                        "steam"
+                    ]
+                },
+                {
+                    "oid": 2,
+                    "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
+                    "title": "Сыр Качотта",
+                    "description": "постные, на развес",
+                    "price": 120,
+                    "oldPrice": 145,
+                    "costPer": "за 100 грамм",
+                    "labels": [
+                        "eco"
+                    ]
+                },
+                {
+                    "oid": 3,
+                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "title": "Вареники с картофелем и грибами",
+                    "description": "постные, на развес",
+                    "price": 74,
+                    "oldPrice": 105,
+                    "costPer": "за 100 грамм",
+                    "promo": "акция -20%",
+                    "labels": [
+                        "pertnership",
+                        "eco",
+                        "steam"
+                    ]
+                }
+            ]
+        },
+        {
+            "oid": 7,
+            "type": "bannerBlock",
+            "title": "Дикая рыба северных широт",
+            "titleColor": "#FFFFFF",
+            "descriptionColor": "#FFFFFF",
+            "description": "Порадуйте себя вкусными дарами российских морей и рек",
+            "image": "https://i.ibb.co/txdwf6M/bg.png",
+            "button": {
+                "title": "Подробнее",
+                "colorBG": "#FFFFFF",
+                "colorTxt": "#252423",
+                "action": {
+                    "path": "constant",
+                    "params": [
+                        {
+                            "key": "oid",
+                            "value": 123
+                        },
+                        {
+                            "key": "oid_category",
+                            "value": 456
+                        }
+                    ]
+                }
+            }
+        },
+        {
             "oid": 8,
+            "type": "brands",
+            "title": "Наши бренды",
+            "items": [
+                {
+                    "oid": 123,
+                    "image": "https://i.ibb.co/2hcHd2d/image-16.png"
+                },
+                {
+                    "oid": 456,
+                    "image": "https://i.ibb.co/KzSTK2r/image-15.png"
+                }
+            ]
+        },
+        {
+            "oid": 9,
             "type": "popularCategories",
             "title": "Популярные категории",
-            "items":
-            [
+            "items": [
                 {
                     "oid": 123,
                     "image": "https://i.ibb.co/wKPcZtj/Mask-Group.png",
-                    "title": "Молоко",
-                    "action": {
-                        "path": "constant",
-                        "params":
-                        [
-                            {
-                                "key": "oid",
-                                "value": 123
-                            }
-                        ]
-                    }
+                    "title": "Молоко"
                 },
                 {
                     "oid": 456,
                     "image": "https://i.ibb.co/6RLjLqb/Mask-Group-2.png",
-                    "title": "Йогурт",
-                    "action": {
-                        "path": "constant",
-                        "params":
-                        [
-                            {
-                                "key": "oid",
-                                "value": 123
-                            },
-                            {
-                                "key": "oid_category",
-                                "value": 456
-                            }
-                        ]
-                    }
+                    "title": "Йогурты"
                 },
                 {
-                    "oid": 123,
+                    "oid": 789,
                     "image": "https://i.ibb.co/M2qqxK3/Mask-Group-3.png",
-                    "title": "Свинина",
-                    "action": {
-                        "path": "constant",
-                        "params":
-                        [
-                            {
-                                "key": "oid",
-                                "value": 123
-                            }
-                        ]
-                    }
+                    "title": "Свинина"
                 },
                 {
-                    "oid": 456,
+                    "oid": 101,
                     "image": "https://i.ibb.co/LgwZyQ9/Mask-Group.png",
-                    "title": "Мягкие и творожные сыры",
-                    "action": {
-                        "path": "constant",
-                        "params":
-                        [
-                            {
-                                "key": "oid",
-                                "value": 123
-                            },
-                            {
-                                "key": "oid_category",
-                                "value": 456
-                            }
-                        ]
-                    }
+                    "title": "Мягкие и творожные сыры"
                 }
             ]
         },
         {
-            "oid": 2,
+            "oid": 10,
             "type": "goodsCarousel",
             "title": "Новинки от BioGourmet",
-            "items":
-            [
+            "items": [
                 {
-                    "oid": 281694020042766,
+                    "oid": 1,
                     "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
                     "title": "Вареники с картофелем и грибами",
                     "description": "постные, на развес",
-                    "price": 1234.56,
-                    "oldPrice": 1299.56,
+                    "price": 74,
+                    "oldPrice": 105,
                     "costPer": "за 100 грамм",
-                    "labels": ["pertnership", "eco", "steam"],
                     "promo": "акция -20%",
-                    "button": {
-                        "title": "string",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
-                        }
-                    },
-                    "badges":
-                    [
-                        {
-                            "title": "В наличии",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        },
-                        {
-                            "title": "Новый",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        }
+                    "labels": [
+                        "pertnership",
+                        "eco",
+                        "steam"
                     ]
                 },
                 {
-                    "oid": 281694020042766,
+                    "oid": 2,
                     "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
                     "title": "Сыр Качотта",
-                    "description": "постные, на развес",
-                    "price": 1234.56,
+                    "description": "с грибами, на развес",
+                    "price": 120,
+                    "oldPrice": 145,
                     "costPer": "за 100 грамм",
-                    "labels": ["pertnership", "eco", "steam"],
-                    "button": {
-                        "title": "string",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
-                        }
-                    },
-                    "badges":
-                    [
-                        {
-                            "title": "В наличии",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        },
-                        {
-                            "title": "Новый",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        }
+                    "labels": [
+                        "eco"
+                    ]
+                },
+                {
+                    "oid": 3,
+                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "title": "Вареники с картофелем и грибами",
+                    "description": "постные, на развес",
+                    "price": 74,
+                    "oldPrice": 105,
+                    "costPer": "за 100 грамм",
+                    "promo": "акция -20%",
+                    "labels": [
+                        "pertnership",
+                        "eco",
+                        "steam"
                     ]
                 }
             ]
         },
         {
-            "oid": 2,
+            "oid": 11,
             "type": "ordersBlock",
             "title": "Не заказывали подписки больше 3-х недель",
-            "items":
-            [
+            "items": [
                 {
-                    "oid": 281694020042766,
-                    "image": "path to image",
+                    "oid": 1,
                     "title": "Доставка сегодня с 9:00 до 12:00",
                     "description": "3 позиции, 3.4 кг",
-                    "price": 1234.56,
-                    "oldPrice": 1299.56,
-                    "costPer": "за 100 грамм",
-                    "promo": "акция -20%",
-                    "labels": ["pertnership", "eco", "steam"],
+                    "price": 3500,
                     "button": {
                         "title": "Заказать",
                         "colorBG": "7FAA11",
-                        "colorTxt": "FFFFFF",
+                        "colorTxt": "#FFFFFF",
                         "action": {
                             "path": "constant",
-                            "params":
-                            [
+                            "params": [
                                 {
                                     "key": "oid",
                                     "value": 123
@@ -1654,207 +485,61 @@
                             ]
                         }
                     },
-                    "badges":
-                    [
+                    "items": [
                         {
-                            "title": "В наличии",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
+                            "oid": 1,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
                         },
                         {
-                            "title": "Новый",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
-                        }
-                    ],
-                    "items":
-                    [
-                        {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                            "title": "Вареники с картофелем и грибами",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "oldPrice": 1299.56,
-                            "costPer": "за 100 грамм",
-                            "promo": "акция -20%",
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
+                            "oid": 2,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
                         },
                         {
-                            "oid": 281694020042766,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                            "title": "Сыр Качотта",
-                            "description": "постные, на развес",
-                            "price": 1234.56,
-                            "costPer": "за 100 грамм",
-                            "button": {
-                                "title": "string",
-                                "colorBG": "78BCD9",
-                                "colorTxt": "FFFFFF",
-                                "action": {
-                                    "path": "constant",
-                                    "params":
-                                    [
-                                        {
-                                            "key": "oid",
-                                            "value": 123
-                                        },
-                                        {
-                                            "key": "oid_category",
-                                            "value": 456
-                                        }
-                                    ]
-                                }
-                            },
-                            "badges":
-                            [
-                                {
-                                    "title": "В наличии",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                },
-                                {
-                                    "title": "Новый",
-                                    "colorText": "#7A7D83",
-                                    "colorBg": "#E1E8ED"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "oid": 26,
-            "type": "bannerBlockNotification",
-            "items":
-            [
-                {
-                    "oid": 13,
-                    "title": "Узнайте больше о экопродуктах ",
-                    "bannerAttributes": {
-                      "titleColor": "252423",
-                      "descriptionColor": "FFFFFF"
-                    },
-                    "description": "",
-                    "image": "",
-                    "badge": "Полезно",
-                    "button": {
-                        "title": "Узнать",
-                        "colorBG": "FFFFFF",
-                        "colorTxt": "252423",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
-                        }
-                    }
-                }
-            ]
-        },
-        {
-            "oid": 2,
-            "type": "goodsCarousel",
-            "title": "Товары в избранном",
-            "items":
-            [
-                {
-                    "oid": 281694020042766,
-                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
-                    "title": "Вареники с картофелем и грибами",
-                    "description": "постные, на развес",
-                    "price": 1234.56,
-                    "oldPrice": 1299.56,
-                    "costPer": "за 100 грамм",
-                    "promo": "акция -20%",
-                    "button": {
-                        "title": "string",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
-                        }
-                    },
-                    "badges":
-                    [
-                        {
-                            "title": "В наличии",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
+                            "oid": 3,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
                         },
                         {
-                            "title": "Новый",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
+                            "oid": 4,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                        },
+                        {
+                            "oid": 5,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                        },
+                        {
+                            "oid": 6,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                        },
+                        {
+                            "oid": 7,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                        },
+                        {
+                            "oid": 8,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                        },
+                        {
+                            "oid": 9,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                        },
+                        {
+                            "oid": 10,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
                         }
                     ]
                 },
                 {
-                    "oid": 281694020042766,
-                    "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
-                    "title": "Сыр Качотта",
-                    "description": "постные, на развес",
-                    "price": 1234.56,
-                    "costPer": "за 100 грамм",
+                    "oid": 2,
+                    "title": "Доставка сегодня с 9:00 до 12:00",
+                    "description": "3 позиции, 3.4 кг",
+                    "price": 3500,
                     "button": {
-                        "title": "string",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
+                        "title": "Заказать",
+                        "colorBG": "7FAA11",
+                        "colorTxt": "#FFFFFF",
                         "action": {
                             "path": "constant",
-                            "params":
-                            [
+                            "params": [
                                 {
                                     "key": "oid",
                                     "value": 123
@@ -1866,65 +551,156 @@
                             ]
                         }
                     },
-                    "badges":
-                    [
+                    "items": [
                         {
-                            "title": "В наличии",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
+                            "oid": 1,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
                         },
                         {
-                            "title": "Новый",
-                            "colorText": "#7A7D83",
-                            "colorBg": "#E1E8ED"
+                            "oid": 2,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                        },
+                        {
+                            "oid": 3,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                        },
+                        {
+                            "oid": 4,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                        },
+                        {
+                            "oid": 5,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                        },
+                        {
+                            "oid": 6,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                        },
+                        {
+                            "oid": 7,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                        },
+                        {
+                            "oid": 8,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                        },
+                        {
+                            "oid": 9,
+                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                        },
+                        {
+                            "oid": 10,
+                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
                         }
                     ]
                 }
             ]
         },
         {
-            "oid": 36,
-            "type": "bannerBlockCornered",
-            "items":
-            [
-                {
-                    "oid": 14,
-                    "title": "Органическая Ферма М2",
-                    "bannerAttributes": {
-                      "titleColor": "252423",
-                      "descriptionColor": "252423"
-                    },
-                    "description": "Органическое фермерское хозяйство М2 построено на берегу Рузского водохранилища. Мы никогда не используем гармоны для усиления роста и лактации, антибиотики, ГМО и любые химические компоненты.",
-                    "image": "https://i.ibb.co/khkT5B9/banner.jpg",
-                    "badge": "Полезно",
-                    "button": {
-                        "title": "На ферму",
-                        "colorBG": "78BCD9",
-                        "colorTxt": "FFFFFF",
-                        "action": {
-                            "path": "constant",
-                            "params":
-                            [
-                                {
-                                    "key": "oid",
-                                    "value": 123
-                                },
-                                {
-                                    "key": "oid_category",
-                                    "value": 456
-                                }
-                            ]
+            "oid": 12,
+            "type": "bannerBlockNotification",
+            "title": "Узнайте больше об экопродуктах",
+            "titleColor": "#252423",
+            "button": {
+                "title": "Узнать",
+                "colorBG": "#FFFFFF",
+                "colorTxt": "#252423",
+                "action": {
+                    "path": "constant",
+                    "params": [
+                        {
+                            "key": "oid",
+                            "value": 123
+                        },
+                        {
+                            "key": "oid_category",
+                            "value": 456
                         }
-                    }
+                    ]
+                }
+            }
+        },
+        {
+            "oid": 13,
+            "type": "goodsCarousel",
+            "title": "Товары в избранном",
+            "items": [
+                {
+                    "oid": 1,
+                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "title": "Вареники с картофелем и грибами",
+                    "description": "постные, на развес",
+                    "price": 74,
+                    "oldPrice": 105,
+                    "costPer": "за 100 грамм",
+                    "promo": "акция -20%",
+                    "labels": [
+                        "pertnership",
+                        "eco",
+                        "steam"
+                    ]
+                },
+                {
+                    "oid": 2,
+                    "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
+                    "title": "Сыр Качотта",
+                    "description": "с грибами, на развес",
+                    "price": 120,
+                    "oldPrice": 145,
+                    "costPer": "за 100 грамм",
+                    "labels": [
+                        "eco",
+                    ]
+                },
+                {
+                    "oid": 3,
+                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "title": "Вареники с картофелем и грибами",
+                    "description": "постные, на развес",
+                    "price": 74,
+                    "oldPrice": 105,
+                    "costPer": "за 100 грамм",
+                    "promo": "акция -20%",
+                    "labels": [
+                        "pertnership",
+                        "eco",
+                        "steam"
+                    ]
                 }
             ]
         },
         {
-            "oid": 2,
+            "oid": 14,
+            "type": "bannerBlockCornered",
+            "title": "Органическая Ферма М2",
+            "titleColor": "#252423",
+            "descriptionColor": "#252423",
+            "description": "Органическое фермерское хозяйство М2 построено на берегу Рузского водохранилища. Мы никогда не используем гармоны для усиления роста и лактации, антибиотики, ГМО и любые химические компоненты.",
+            "image": "https://i.ibb.co/khkT5B9/banner.jpg",
+            "button": {
+                "title": "На ферму",
+                "colorBG": "#FFFFFF",
+                "colorTxt": "#252423",
+                "action": {
+                    "path": "constant",
+                    "params": [
+                        {
+                            "key": "oid",
+                            "value": 123
+                        },
+                        {
+                            "key": "oid_category",
+                            "value": 456
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "oid": 15,
             "type": "contacts",
             "title": "Контакты",
-            "items":
-            [
+            "items": [
                 {
                     "type": "phone",
                     "title": "Горячая линия",
