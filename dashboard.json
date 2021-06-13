@@ -469,7 +469,7 @@
                     "price": 3500,
                     "button": {
                         "title": "Заказать",
-                        "colorBG": "7FAA11",
+                        "colorBG": "#7FAA11",
                         "colorTxt": "#FFFFFF",
                         "action": {
                             "path": "constant",
@@ -535,7 +535,7 @@
                     "price": 3500,
                     "button": {
                         "title": "Заказать",
-                        "colorBG": "7FAA11",
+                        "colorBG": "#7FAA11",
                         "colorTxt": "#FFFFFF",
                         "action": {
                             "path": "constant",
