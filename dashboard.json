@@ -11,7 +11,7 @@
                     "oid": 1,
                     "title": "Тема сторис",
                     "image": "https://i.ibb.co/4VKkGwx/image.png",
-                    "viewed": true,
+                    "viewed": false,
                     "gradient": {
                         "startColor": "#E58F8D",
                         "endColor": "#CD6541"
