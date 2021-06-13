@@ -700,17 +700,9 @@
             "oid": 15,
             "type": "contacts",
             "title": "Контакты",
-            "items": [
-                {
-                    "type": "phone",
-                    "title": "Горячая линия",
-                    "contact": "+7 (495) 025-30-30"
-                },
-                {
-                    "type": "schedule",
-                    "title": "Режим работы",
-                    "contact": "с 9:00 до 21:00, без выходных"
-                },
+            "phone": "+7 (495) 025-30-30",
+            "schedule": "с 9:00 до 21:00, без выходных",
+            "socials": [
                 {
                     "type": "instagram",
                     "title": "string",
