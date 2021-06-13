@@ -372,12 +372,28 @@
             "title": "Наши бренды",
             "items": [
                 {
-                    "oid": 123,
-                    "image": "https://i.ibb.co/2hcHd2d/image-16.png"
+                    "oid": 1,
+                    "image": "https://i.ibb.co/MpLxbTM/08399cd454035983cce4e7a70072e097.png"
                 },
                 {
-                    "oid": 456,
-                    "image": "https://i.ibb.co/KzSTK2r/image-15.png"
+                    "oid": 2,
+                    "image": "https://i.ibb.co/GvJqjyP/ed415cbf63d58acc096a9a2eea67a398.png"
+                },
+                {
+                    "oid": 3,
+                    "image": "https://i.ibb.co/MpLxbTM/08399cd454035983cce4e7a70072e097.png"
+                },
+                {
+                    "oid": 4,
+                    "image": "https://i.ibb.co/GvJqjyP/ed415cbf63d58acc096a9a2eea67a398.png"
+                },
+                {
+                    "oid": 5,
+                    "image": "https://i.ibb.co/MpLxbTM/08399cd454035983cce4e7a70072e097.png"
+                },
+                {
+                    "oid": 6,
+                    "image": "https://i.ibb.co/GvJqjyP/ed415cbf63d58acc096a9a2eea67a398.png"
                 }
             ]
         },
