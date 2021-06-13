@@ -202,11 +202,11 @@
         {
             "oid": 3,
             "type": "bannerBlock",
-            "title": "Новая акция\n“Двойные зёрна”",
+            "title": "Новая акция “Двойные зёрна”",
             "titleColor": "#FFFFFF",
             "descriptionColor": "#FFFFFF",
             "description": "Оформляйте заказ с доставкой на воскресенье и получайте зёрна в двойном объёме",
-            "image": "https://i.ibb.co/dPHy85k/bg.png",
+            "image": "https://i.ibb.co/SrbRH9H/65c5ac8dd68e8dbd09636bfe8ca7a121.png",
             "button": {
                 "title": "Подробнее",
                 "colorBG": "#FFFFFF",
