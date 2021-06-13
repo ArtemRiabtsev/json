@@ -403,23 +403,23 @@
             "title": "Популярные категории",
             "items": [
                 {
-                    "oid": 123,
-                    "image": "https://i.ibb.co/wKPcZtj/Mask-Group.png",
+                    "oid": 1,
+                    "image": "https://i.ibb.co/Jnv6TRB/1.png",
                     "title": "Молоко"
                 },
                 {
-                    "oid": 456,
-                    "image": "https://i.ibb.co/6RLjLqb/Mask-Group-2.png",
+                    "oid": 2,
+                    "image": "https://i.ibb.co/XyBgfcC/2.png",
                     "title": "Йогурты"
                 },
                 {
-                    "oid": 789,
-                    "image": "https://i.ibb.co/M2qqxK3/Mask-Group-3.png",
+                    "oid": 3,
+                    "image": "https://i.ibb.co/LpKZktM/3.png",
                     "title": "Свинина"
                 },
                 {
-                    "oid": 101,
-                    "image": "https://i.ibb.co/LgwZyQ9/Mask-Group.png",
+                    "oid": 4,
+                    "image": "https://i.ibb.co/xX785fR/4.png",
                     "title": "Мягкие и творожные сыры"
                 }
             ]
