@@ -74,9 +74,6 @@
             }
         ]
     },
-    "delyveryFree": {
-        "deliveryCoast": 300,
-        "orderAmountForFree": 5000
-    },
+    "toFreeShipping": 300,
     "totalAmount": 3700.0
 }
