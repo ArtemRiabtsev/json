@@ -1,12 +1,4 @@
 {
-    "deliveryAddress": {
-        "oid": 1,
-        "address": "Москва, ул. Профсоюзная 76",
-        "entrance": 1,
-        "storey": 2,
-        "flat": 22,
-        "note": "до подъезда"
-    },
     "goods": [{
             "oid": 1,
             "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
