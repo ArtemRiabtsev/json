@@ -1,0 +1,82 @@
+{
+    "deliveryAddress": {
+        "oid": 1,
+        "address": "Москва, ул. Профсоюзная 76",
+        "entrance": 1,
+        "storey": 2,
+        "flat": 22,
+        "note": "до подъезда"
+    },
+    "goods": [{
+            "oid": 1,
+            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+            "title": "Вареники с картофелем и грибами",
+            "description": "постные, на развес",
+            "price": 74,
+            "oldPrice": 105,
+            "quantity": 1
+        },
+        {
+            "oid": 2,
+            "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
+            "title": "Сыр Качотта",
+            "description": "постные, на развес",
+            "price": 120,
+            "oldPrice": 145,
+            "quantity": 1
+        }
+    ],
+    "buyWith": {
+        "oid": 6,
+        "type": "goodsCarousel",
+        "title": "С этим товарами покупают",
+        "items": [{
+                "oid": 1,
+                "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                "title": "Вареники с картофелем и грибами",
+                "description": "постные, на развес",
+                "price": 74,
+                "oldPrice": 105,
+                "costPer": "за 100 грамм",
+                "promo": "акция -20%",
+                "labels": [
+                    "pertnership",
+                    "eco",
+                    "steam"
+                ]
+            },
+            {
+                "oid": 2,
+                "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
+                "title": "Сыр Качотта",
+                "description": "постные, на развес",
+                "price": 120,
+                "oldPrice": 145,
+                "costPer": "за 100 грамм",
+                "labels": [
+                    "eco"
+                ]
+            },
+            {
+                "oid": 3,
+                "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                "title": "Вареники с картофелем и грибами",
+                "description": "постные, на развес",
+                "price": 74,
+                "oldPrice": 105,
+                "costPer": "за 100 грамм",
+                "promo": "акция -20%",
+                "labels": [
+                    "pertnership",
+                    "eco",
+                    "steam"
+                ]
+            }
+        ]
+    },
+    "delyveryFree": {
+        "deliveryCoast": 300,
+        "orderAmountForFree": 5000
+    },
+    "totalAmount": 3700.0
+}
