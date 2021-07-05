@@ -74,6 +74,7 @@
             }
         ]
     },
-    "toFreeShipping": 300,
+    "deliveryPrice": 300.0
+    "toFreeDelivery": 150.0,
     "totalAmount": 3700.0
 }
