@@ -10,8 +10,8 @@
                 {
                     "oid": 1,
                     "title": "Тема сторис",
-                    "image": "https://i.ibb.co/D8zX154/Rectangle-7.png",
-                    "viewed": true,
+                    "image": "https://i.ibb.co/4VKkGwx/image.png",
+                    "viewed": false,
                     "gradient": {
                         "startColor": "#E58F8D",
                         "endColor": "#CD6541"
@@ -32,7 +32,7 @@
                 {
                     "oid": 2,
                     "title": "Тема сторис",
-                    "image": "https://i.ibb.co/Lzq0K0w/Rectangle-7-3.png",
+                    "image": "https://i.ibb.co/xqBsxY9/image.png",
                     "viewed": false,
                     "screens": [
                         {
@@ -60,7 +60,34 @@
                 {
                     "oid": 3,
                     "title": "Тема сторис",
-                    "image": "https://i.ibb.co/YR1gvTB/Rectangle-7-2.png",
+                    "image": "https://i.ibb.co/Prc0JP1/image.png",
+                    "viewed": true,
+                    "gradient": {
+                        "startColor": "#C3799B",
+                        "endColor": "#7292CB"
+                    },
+                    "screens": [
+                        {
+                            "image": "https://i.ibb.co/CMnDXbQ/003bd322-5401-4ea5-9da9-d6521c5fb0b2-1.webp",
+                            "title": "Mercedes",
+                            "description": "Description"
+                        },
+                        {
+                            "image": "https://images.unsplash.com/photo-1570733577524-3a047079e80d",
+                            "title": "Mercedes 2",
+                            "description": "Descriptionn"
+                        },
+                        {
+                            "image": "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a",
+                            "title": "Mercedes 3",
+                            "description": "Descriptionnn"
+                        }
+                    ]
+                },
+                {
+                    "oid": 4,
+                    "title": "Тема сторис",
+                    "image": "https://i.ibb.co/z8Kx5zx/8bafd515fb704dc6f62a744d6acd4153.png",
                     "viewed": true,
                     "gradient": {
                         "startColor": "#C3799B",
@@ -104,43 +131,43 @@
                     "items": [
                         {
                             "oid": 1,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
                         },
                         {
                             "oid": 2,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
                         },
                         {
                             "oid": 3,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
                         },
                         {
                             "oid": 4,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
                         },
                         {
                             "oid": 5,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
                         },
                         {
                             "oid": 6,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
                         },
                         {
                             "oid": 7,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
                         },
                         {
                             "oid": 8,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
                         },
                         {
                             "oid": 9,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
                         },
                         {
                             "oid": 10,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
                         }
                     ]
                 },
@@ -157,43 +184,43 @@
                     "items": [
                         {
                             "oid": 1,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
                         },
                         {
                             "oid": 2,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
                         },
                         {
                             "oid": 3,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
                         },
                         {
                             "oid": 4,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
                         },
                         {
                             "oid": 5,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
                         },
                         {
                             "oid": 6,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
                         },
                         {
                             "oid": 7,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
                         },
                         {
                             "oid": 8,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
                         },
                         {
                             "oid": 9,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
                         },
                         {
                             "oid": 10,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
                         }
                     ]
                 }
@@ -202,11 +229,11 @@
         {
             "oid": 3,
             "type": "bannerBlock",
-            "title": "Новая акция\n“Двойные зёрна”",
+            "title": "Новая акция “Двойные зёрна”",
             "titleColor": "#FFFFFF",
             "descriptionColor": "#FFFFFF",
             "description": "Оформляйте заказ с доставкой на воскресенье и получайте зёрна в двойном объёме",
-            "image": "https://i.ibb.co/dPHy85k/bg.png",
+            "image": "https://i.ibb.co/SrbRH9H/65c5ac8dd68e8dbd09636bfe8ca7a121.png",
             "button": {
                 "title": "Подробнее",
                 "colorBG": "#FFFFFF",
@@ -229,7 +256,7 @@
             "items": [
                 {
                     "oid": 1,
-                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
                     "title": "Вареники с картофелем и грибами",
                     "description": "постные, на развес",
                     "price": 74,
@@ -244,7 +271,7 @@
                 },
                 {
                     "oid": 2,
-                    "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
+                    "image": "https://i.ibb.co/x5zhLMJ/9178a6293446509b6e3e67cc8808b832.png",
                     "title": "Сыр Качотта",
                     "description": "постные, на развес",
                     "price": 120,
@@ -255,7 +282,7 @@
                 },
                 {
                     "oid": 3,
-                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
                     "title": "Вареники с картофелем и грибами",
                     "description": "постные, на развес",
                     "price": 74,
@@ -276,7 +303,7 @@
             "title": "Рядом магазин и кафе «М2 Органик Клуб»",
             "titleColor": "#FFFFFF",
             "descriptionColor": "#FFFFFF",
-            "backgroundColor": "#FFFFFF",
+            "backgroundColor": "#252423",
             "description": "Открыт сегодня до 23:00",
             "image": "https://i.ibb.co/JFBjgn5/avatar.png",
             "distance": "500 метров от вас, 3 мин",
@@ -297,7 +324,7 @@
             "items": [
                 {
                     "oid": 1,
-                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
                     "title": "Вареники с картофелем и грибами",
                     "description": "постные, на развес",
                     "price": 74,
@@ -312,7 +339,7 @@
                 },
                 {
                     "oid": 2,
-                    "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
+                    "image": "https://i.ibb.co/x5zhLMJ/9178a6293446509b6e3e67cc8808b832.png",
                     "title": "Сыр Качотта",
                     "description": "постные, на развес",
                     "price": 120,
@@ -324,7 +351,7 @@
                 },
                 {
                     "oid": 3,
-                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
                     "title": "Вареники с картофелем и грибами",
                     "description": "постные, на развес",
                     "price": 74,
@@ -372,12 +399,28 @@
             "title": "Наши бренды",
             "items": [
                 {
-                    "oid": 123,
-                    "image": "https://i.ibb.co/2hcHd2d/image-16.png"
+                    "oid": 1,
+                    "image": "https://i.ibb.co/MpLxbTM/08399cd454035983cce4e7a70072e097.png"
                 },
                 {
-                    "oid": 456,
-                    "image": "https://i.ibb.co/KzSTK2r/image-15.png"
+                    "oid": 2,
+                    "image": "https://i.ibb.co/GvJqjyP/ed415cbf63d58acc096a9a2eea67a398.png"
+                },
+                {
+                    "oid": 3,
+                    "image": "https://i.ibb.co/MpLxbTM/08399cd454035983cce4e7a70072e097.png"
+                },
+                {
+                    "oid": 4,
+                    "image": "https://i.ibb.co/GvJqjyP/ed415cbf63d58acc096a9a2eea67a398.png"
+                },
+                {
+                    "oid": 5,
+                    "image": "https://i.ibb.co/MpLxbTM/08399cd454035983cce4e7a70072e097.png"
+                },
+                {
+                    "oid": 6,
+                    "image": "https://i.ibb.co/GvJqjyP/ed415cbf63d58acc096a9a2eea67a398.png"
                 }
             ]
         },
@@ -387,23 +430,23 @@
             "title": "Популярные категории",
             "items": [
                 {
-                    "oid": 123,
-                    "image": "https://i.ibb.co/wKPcZtj/Mask-Group.png",
+                    "oid": 1,
+                    "image": "https://i.ibb.co/Jnv6TRB/1.png",
                     "title": "Молоко"
                 },
                 {
-                    "oid": 456,
-                    "image": "https://i.ibb.co/6RLjLqb/Mask-Group-2.png",
+                    "oid": 2,
+                    "image": "https://i.ibb.co/XyBgfcC/2.png",
                     "title": "Йогурты"
                 },
                 {
-                    "oid": 789,
-                    "image": "https://i.ibb.co/M2qqxK3/Mask-Group-3.png",
+                    "oid": 3,
+                    "image": "https://i.ibb.co/LpKZktM/3.png",
                     "title": "Свинина"
                 },
                 {
-                    "oid": 101,
-                    "image": "https://i.ibb.co/LgwZyQ9/Mask-Group.png",
+                    "oid": 4,
+                    "image": "https://i.ibb.co/xX785fR/4.png",
                     "title": "Мягкие и творожные сыры"
                 }
             ]
@@ -415,7 +458,7 @@
             "items": [
                 {
                     "oid": 1,
-                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
                     "title": "Вареники с картофелем и грибами",
                     "description": "постные, на развес",
                     "price": 74,
@@ -430,7 +473,7 @@
                 },
                 {
                     "oid": 2,
-                    "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
+                    "image": "https://i.ibb.co/x5zhLMJ/9178a6293446509b6e3e67cc8808b832.png",
                     "title": "Сыр Качотта",
                     "description": "с грибами, на развес",
                     "price": 120,
@@ -442,7 +485,7 @@
                 },
                 {
                     "oid": 3,
-                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
                     "title": "Вареники с картофелем и грибами",
                     "description": "постные, на развес",
                     "price": 74,
@@ -469,7 +512,7 @@
                     "price": 3500,
                     "button": {
                         "title": "Заказать",
-                        "colorBG": "7FAA11",
+                        "colorBG": "#7FAA11",
                         "colorTxt": "#FFFFFF",
                         "action": {
                             "path": "constant",
@@ -488,43 +531,43 @@
                     "items": [
                         {
                             "oid": 1,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
                         },
                         {
                             "oid": 2,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
                         },
                         {
                             "oid": 3,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
                         },
                         {
                             "oid": 4,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
                         },
                         {
                             "oid": 5,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
                         },
                         {
                             "oid": 6,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
                         },
                         {
                             "oid": 7,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
                         },
                         {
                             "oid": 8,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
                         },
                         {
                             "oid": 9,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
                         },
                         {
                             "oid": 10,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
                         }
                     ]
                 },
@@ -535,7 +578,7 @@
                     "price": 3500,
                     "button": {
                         "title": "Заказать",
-                        "colorBG": "7FAA11",
+                        "colorBG": "#7FAA11",
                         "colorTxt": "#FFFFFF",
                         "action": {
                             "path": "constant",
@@ -554,43 +597,43 @@
                     "items": [
                         {
                             "oid": 1,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
                         },
                         {
                             "oid": 2,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
                         },
                         {
                             "oid": 3,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
                         },
                         {
                             "oid": 4,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
                         },
                         {
                             "oid": 5,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
                         },
                         {
                             "oid": 6,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
                         },
                         {
                             "oid": 7,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
                         },
                         {
                             "oid": 8,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
                         },
                         {
                             "oid": 9,
-                            "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg"
+                            "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
                         },
                         {
                             "oid": 10,
-                            "image": "https://i.ibb.co/prx0J1q/image-14.jpg"
+                            "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
                         }
                     ]
                 }
@@ -627,7 +670,7 @@
             "items": [
                 {
                     "oid": 1,
-                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
                     "title": "Вареники с картофелем и грибами",
                     "description": "постные, на развес",
                     "price": 74,
@@ -642,7 +685,7 @@
                 },
                 {
                     "oid": 2,
-                    "image": "https://i.ibb.co/prx0J1q/image-14.jpg",
+                    "image": "https://i.ibb.co/x5zhLMJ/9178a6293446509b6e3e67cc8808b832.png",
                     "title": "Сыр Качотта",
                     "description": "с грибами, на развес",
                     "price": 120,
@@ -654,7 +697,7 @@
                 },
                 {
                     "oid": 3,
-                    "image": "https://i.ibb.co/x5PXdHQ/image-14.jpg",
+                    "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
                     "title": "Вареники с картофелем и грибами",
                     "description": "постные, на развес",
                     "price": 74,
@@ -700,17 +743,9 @@
             "oid": 15,
             "type": "contacts",
             "title": "Контакты",
-            "items": [
-                {
-                    "type": "phone",
-                    "title": "Горячая линия",
-                    "contact": "+7 (495) 025-30-30"
-                },
-                {
-                    "type": "schedule",
-                    "title": "Режим работы",
-                    "contact": "с 9:00 до 21:00, без выходных"
-                },
+            "phone": "+7 (495) 025-30-30",
+            "schedule": "с 9:00 до 21:00, без выходных",
+            "socials": [
                 {
                     "type": "instagram",
                     "title": "string",
