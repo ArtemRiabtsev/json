@@ -68,5 +68,7 @@
     },
     "deliveryPrice": 300.0,
     "toFreeDelivery": 150.0,
-    "totalAmount": 3700.0
+    "totalAmount": 3700.0,
+    "discountAmount": 250.0,
+    "maxBonuses": 325.0
 }
