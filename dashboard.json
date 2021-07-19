@@ -126,7 +126,7 @@
                     "badge": {
                         "title": "У курьера",
                         "colorBG": "#78BCD9",
-                        "colorTxt": "#FFFFFF"
+                        "colorText": "#FFFFFF"
                     },
                     "items": [
                         {
@@ -179,7 +179,7 @@
                     "badge": {
                         "title": "У курьера",
                         "colorBG": "#78BCD9",
-                        "colorTxt": "#FFFFFF"
+                        "colorText": "#FFFFFF"
                     },
                     "items": [
                         {
