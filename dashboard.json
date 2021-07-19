@@ -125,7 +125,7 @@
                     "price": 3500,
                     "badge": {
                         "title": "У курьера",
-                        "colorBG": "#78BCD9",
+                        "colorBg": "#78BCD9",
                         "colorText": "#FFFFFF"
                     },
                     "items": [
@@ -178,7 +178,7 @@
                     "price": 3500,
                     "badge": {
                         "title": "У курьера",
-                        "colorBG": "#78BCD9",
+                        "colorBg": "#78BCD9",
                         "colorText": "#FFFFFF"
                     },
                     "items": [
