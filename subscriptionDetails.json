@@ -1,0 +1,102 @@
+{
+    "title": "Подписка №21",
+    "emountForFreeDelivery": 500.0,
+    "items": [
+        {
+            "oid": 1,
+            "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
+            "title": "Вареники с картофелем и грибами",
+            "description": "постные, на развес",
+            "price": 74,
+            "oldPrice": 105,
+            "costPer": "за 100 грамм",
+            "promo": "акция -20%",
+            "count": 1,
+            "labels": [
+                "pertnership",
+                "eco",
+                "steam"
+            ],
+            "inStock": true
+        },
+        {
+            "oid": 2,
+            "image": "https://i.ibb.co/x5zhLMJ/9178a6293446509b6e3e67cc8808b832.png",
+            "title": "Сыр Качотта",
+            "description": "с грибами, на развес",
+            "price": 120,
+            "oldPrice": 145,
+            "count": 1,
+            "costPer": "за 100 грамм",
+            "labels": [
+                "eco"
+            ],
+            "inStock": true
+        },
+        {
+            "oid": 3,
+            "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
+            "title": "Вареники с картофелем и грибами",
+            "description": "постные, на развес",
+            "price": 74,
+            "oldPrice": 105,
+            "costPer": "за 100 грамм",
+            "promo": "акция -20%",
+            "count": 1,
+            "labels": [
+                "pertnership",
+                "eco",
+                "steam"
+            ],
+            "inStock": false
+        },
+        {
+            "oid": 1,
+            "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
+            "title": "Вареники с картофелем и грибами",
+            "description": "постные, на развес",
+            "price": 74,
+            "oldPrice": 105,
+            "costPer": "за 100 грамм",
+            "promo": "акция -20%",
+            "count": 1,
+            "labels": [
+                "pertnership",
+                "eco",
+                "steam"
+            ],
+            "inStock": true
+        },
+        {
+            "oid": 2,
+            "image": "https://i.ibb.co/x5zhLMJ/9178a6293446509b6e3e67cc8808b832.png",
+            "title": "Сыр Качотта",
+            "description": "с грибами, на развес",
+            "price": 120,
+            "oldPrice": 145,
+            "count": 1,
+            "costPer": "за 100 грамм",
+            "labels": [
+                "eco"
+            ],
+            "inStock": true
+        },
+        {
+            "oid": 3,
+            "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
+            "title": "Вареники с картофелем и грибами",
+            "description": "постные, на развес",
+            "price": 74,
+            "oldPrice": 105,
+            "costPer": "за 100 грамм",
+            "promo": "акция -20%",
+            "count": 1,
+            "labels": [
+                "pertnership",
+                "eco",
+                "steam"
+            ],
+            "inStock": false
+        }
+    ]
+}
