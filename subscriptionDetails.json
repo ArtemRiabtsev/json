@@ -51,7 +51,7 @@
             "available": false
         },
         {
-            "oid": 1,
+            "oid": 4,
             "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
             "title": "Вареники с картофелем и грибами",
             "description": "постные, на развес",
@@ -68,7 +68,7 @@
             "available": true
         },
         {
-            "oid": 2,
+            "oid": 5,
             "image": "https://i.ibb.co/x5zhLMJ/9178a6293446509b6e3e67cc8808b832.png",
             "title": "Сыр Качотта",
             "description": "с грибами, на развес",
@@ -82,7 +82,7 @@
             "available": true
         },
         {
-            "oid": 3,
+            "oid": 6,
             "image": "https://i.ibb.co/Y2y9ZNg/9ae06f46c6a74be035040f131fcfdf09.png",
             "title": "Вареники с картофелем и грибами",
             "description": "постные, на развес",
