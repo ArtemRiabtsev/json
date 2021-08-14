@@ -17,7 +17,7 @@
                 "eco",
                 "steam"
             ],
-            "inStock": true
+            "available": true
         },
         {
             "oid": 2,
@@ -31,7 +31,7 @@
             "labels": [
                 "eco"
             ],
-            "inStock": true
+            "available": true
         },
         {
             "oid": 3,
@@ -48,7 +48,7 @@
                 "eco",
                 "steam"
             ],
-            "inStock": false
+            "available": false
         },
         {
             "oid": 1,
@@ -65,7 +65,7 @@
                 "eco",
                 "steam"
             ],
-            "inStock": true
+            "available": true
         },
         {
             "oid": 2,
@@ -79,7 +79,7 @@
             "labels": [
                 "eco"
             ],
-            "inStock": true
+            "available": true
         },
         {
             "oid": 3,
@@ -96,7 +96,7 @@
                 "eco",
                 "steam"
             ],
-            "inStock": false
+            "available": false
         }
     ]
 }
