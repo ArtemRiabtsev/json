@@ -5,6 +5,11 @@
         "dateEnd": "15.08.2021 12:00",
         "totalPrice": 3500,
         "description": "3 позиции, 3.4 кг",
+        "coords":
+                {
+                  "lat": 55.730282,
+                  "lnt": 37.713214
+                },
         "price": 3500,
         "items": [
             {
@@ -56,6 +61,11 @@
         "totalPrice": 3500,
         "bonus": 751.02,
         "subtitle": "3 позиции, 3.4 кг",
+        "coords":
+                {
+                  "lat": 55.730282,
+                  "lnt": 37.713214
+                },
         "price": 3500,
         "items": [
             {
@@ -106,6 +116,11 @@
         "dateEnd": "15.08.2021 12:00",
         "totalPrice": 3500,
         "description": "3 позиции, 3.4 кг",
+        "coords":
+                {
+                  "lat": 55.730282,
+                  "lnt": 37.713214
+                },
         "price": 3500,
         "items": [
             {
@@ -157,6 +172,11 @@
         "totalPrice": 3500,
         "bonus": 751.02,
         "subtitle": "3 позиции, 3.4 кг",
+        "coords":
+                {
+                  "lat": 55.730282,
+                  "lnt": 37.713214
+                },
         "price": 3500,
         "items": [
             {
