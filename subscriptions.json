@@ -5,6 +5,7 @@
         "dateEnd": "15.08.2021 12:00",
         "totalPrice": 3500,
         "description": "3 позиции, 3.4 кг",
+        "bonus": 751.02,
         "coords":
                 {
                   "lat": 55.730282,
@@ -115,6 +116,7 @@
         "dateStart": "15.08.2021 09:00",
         "dateEnd": "15.08.2021 12:00",
         "totalPrice": 3500,
+        "bonus": 751.02,
         "description": "3 позиции, 3.4 кг",
         "coords":
                 {
