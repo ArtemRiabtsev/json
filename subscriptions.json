@@ -3,7 +3,7 @@
         "oid": 1,
         "dateStart": "15.08.2021 09:00",
         "dateEnd": "15.08.2021 12:00",
-        "totalPrice": 3500,
+        "price": 3500,
         "bonus": 751.02,
         "status": "topay",
         "coords":
@@ -11,7 +11,7 @@
           "lat": 55.730282,
           "lnt": 37.713214
         },
-        "products": [
+        "items": [
             {
                 "oid": 1,
                 "weight": 0.9,
@@ -73,7 +73,7 @@
         "oid": 2,
         "dateStart": "15.08.2021 09:00",
         "dateEnd": "15.08.2021 12:00",
-        "totalPrice": 3500,
+        "price": 3500,
         "bonus": 751.02,
         "status": "payed",
         "coords":
@@ -81,7 +81,7 @@
           "lat": 55.730282,
           "lnt": 37.713214
         },
-        "products": [
+        "items": [
             {
                 "oid": 1,
                 "weight": 0.9,
@@ -143,7 +143,7 @@
         "oid": 3,
         "dateStart": "15.08.2021 09:00",
         "dateEnd": "15.08.2021 12:00",
-        "totalPrice": 3500,
+        "price": 3500,
         "bonus": 751.02,
         "status": "received",
         "coords":
@@ -151,7 +151,7 @@
           "lat": 55.730282,
           "lnt": 37.713214
         },
-        "products": [
+        "items": [
             {
                 "oid": 1,
                 "weight": 0.9,
