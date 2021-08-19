@@ -119,110 +119,214 @@
             "title": "Ваши заказы",
             "items": [
                 {
-                    "oid": 281694020042766,
-                    "title": "Доставка сегодня с 9:00 до 12:00",
-                    "description": "3 позиции, 3.4 кг",
+                    "oid": 1,
+                    "dateStart": "15.08.2021 09:00",
+                    "dateEnd": "15.08.2021 12:00",
                     "price": 3500,
-                    "badge": {
-                        "title": "У курьера",
-                        "colorBg": "#78BCD9",
-                        "colorText": "#FFFFFF"
+                    "bonus": 751.02,
+                    "status": "topay",
+                    "coords":
+                    {
+                      "lat": 55.730282,
+                      "lnt": 37.713214
                     },
                     "items": [
                         {
                             "oid": 1,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
                         },
                         {
                             "oid": 2,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
                         },
                         {
                             "oid": 3,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
                         },
                         {
                             "oid": 4,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
                         },
                         {
                             "oid": 5,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
                         },
                         {
                             "oid": 6,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
                         },
                         {
                             "oid": 7,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
                         },
                         {
                             "oid": 8,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
                         },
                         {
                             "oid": 9,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
                         },
                         {
                             "oid": 10,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
                         }
-                    ]
+                    ],
+                    "badge":{
+                        "title": "У курьера",
+                        "colorText": "#FFFFFF",
+                        "colorBg": "#78BCD9"
+                    }
                 },
                 {
-                    "oid": 281694020042766,
-                    "title": "Доставка сегодня с 9:00 до 12:00",
-                    "subtitle": "3 позиции, 3.4 кг",
+                    "oid": 2,
+                    "dateStart": "15.08.2021 09:00",
+                    "dateEnd": "15.08.2021 12:00",
                     "price": 3500,
-                    "badge": {
-                        "title": "У курьера",
-                        "colorBg": "#78BCD9",
-                        "colorText": "#FFFFFF"
+                    "bonus": 751.02,
+                    "status": "payed",
+                    "coords":
+                    {
+                      "lat": 55.730282,
+                      "lnt": 37.713214
                     },
                     "items": [
                         {
                             "oid": 1,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
                         },
                         {
                             "oid": 2,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
                         },
                         {
                             "oid": 3,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
                         },
                         {
                             "oid": 4,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
                         },
                         {
                             "oid": 5,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
                         },
                         {
                             "oid": 6,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
                         },
                         {
                             "oid": 7,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
                         },
                         {
                             "oid": 8,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
                         },
                         {
                             "oid": 9,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
                         },
                         {
                             "oid": 10,
+                            "weight": 0.9,
                             "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
                         }
-                    ]
+                    ],
+                    "badge":{
+                        "title": "Сборка",
+                        "colorText": "#252423",
+                        "colorBg": "#F1F1F1"
+                    }
+                },
+                {
+                    "oid": 3,
+                    "dateStart": "15.08.2021 09:00",
+                    "dateEnd": "15.08.2021 12:00",
+                    "price": 3500,
+                    "bonus": 751.02,
+                    "status": "received",
+                    "coords":
+                    {
+                      "lat": 55.730282,
+                      "lnt": 37.713214
+                    },
+                    "items": [
+                        {
+                            "oid": 1,
+                            "weight": 0.9,
+                            "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
+                        },
+                        {
+                            "oid": 2,
+                            "weight": 0.9,
+                            "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
+                        },
+                        {
+                            "oid": 3,
+                            "weight": 0.9,
+                            "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
+                        },
+                        {
+                            "oid": 4,
+                            "weight": 0.9,
+                            "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
+                        },
+                        {
+                            "oid": 5,
+                            "weight": 0.9,
+                            "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
+                        },
+                        {
+                            "oid": 6,
+                            "weight": 0.9,
+                            "image": "https://i.ibb.co/cC2zgvH/74e615b1dda8499d0b4475759500c7ef.png"
+                        },
+                        {
+                            "oid": 7,
+                            "weight": 0.9,
+                            "image": "https://i.ibb.co/1fMGjD2/efa953bd1498f6c82be4a0a6e6526b73.png"
+                        },
+                        {
+                            "oid": 8,
+                            "weight": 0.9,
+                            "image": "https://i.ibb.co/mB9t6L9/8aa7b534b651e9bc4a635ae7121d194d.png"
+                        },
+                        {
+                            "oid": 9,
+                            "weight": 0.9,
+                            "image": "https://i.ibb.co/ysqSVDZ/7ba469909a4b478c55b142d5ff2a50e3.png"
+                        },
+                        {
+                            "oid": 10,
+                            "weight": 0.9,
+                            "image": "https://i.ibb.co/vZFxyQ5/4c385d4ab842aeb2c0b02cd5c1856849.png"
+                        }
+                    ],
+                    "badge":{
+                        "title": "Получен",
+                        "colorText": "#FFFFFF",
+                        "colorBg": "#7FAA11"
+                    }
                 }
             ]
         },
