@@ -1,0 +1,42 @@
+{
+	"user":{
+		"lastname":"Петров",
+		"firstname":"Иван",
+		"middlename":"Иванович",
+		"phone":"+79091854848",
+		"email":"mail@mail.ru",
+		"city":"",
+	},
+	"menu":[
+		{
+			"icon":"notification",
+			"action":"notificationAction",
+			"title":"Уведомления"
+		},
+		{
+			"icon":"favorites",
+			"action":"favoritesAction",
+			"title":"Избранное"
+		},
+		{
+			"icon":"objects",
+			"action":"objectsAction",
+			"title":"Мои объекты"
+		},
+		{
+			"icon":"proxies",
+			"action":"proxiesAction",
+			"title":"Доверенные лица"
+		},
+		{
+			"icon":"help",
+			"action":"helpAction",
+			"title":"Помощь"
+		},
+		{
+			"icon":"about",
+			"action":"aboutAction",
+			"title":"О приложении"
+		}
+	]
+}

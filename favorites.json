@@ -1,0 +1,56 @@
+[
+	{
+		"is_group":true,
+		"group":"Название группы",
+		"items":[
+			{
+				"id":1,
+				"logo":"https://pngimg.com/uploads/bmw_logo/bmw_logo_PNG19713.png",
+				"title":"Пропуск авто брата",
+			},
+			{
+				"id":1,
+				"logo":null, // set default placeholder
+				"title":"Ваня Коллега",
+			},
+			{
+				"id":1,
+				"logo":null, // set default placeholder
+				"title":"Ваня Коллега",
+			}
+		]
+	},
+	{
+		"is_group":true,
+		"group":"Группа 2",
+		"items":[
+			{
+				"id":1,
+				"logo":"https://pngimg.com/uploads/bmw_logo/bmw_logo_PNG19713.png",
+				"title":"Пропуск авто брата",
+			}
+		]
+	},
+	{ 
+		// not grouped element
+		"id":1,
+		"logo":"https://pngimg.com/uploads/bmw_logo/bmw_logo_PNG19713.png",
+		"title":"Пропуск авто брата",
+	},
+	{
+		"is_group":true,
+		"group":"Группа 2",
+		"items":[
+			{
+				"id":1,
+				"logo":"https://pngimg.com/uploads/bmw_logo/bmw_logo_PNG19713.png",
+				"title":"Пропуск авто брата",
+			},
+			{
+				"id":1,
+				"logo":"https://pngimg.com/uploads/bmw_logo/bmw_logo_PNG19713.png",
+				"title":"Пропуск авто брата",
+			}
+		]
+	}
+]
