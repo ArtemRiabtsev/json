@@ -10,13 +10,12 @@
 			},
 			{
 				"id":1,
-				"logo":null, // set default placeholder
-				"title":"Ваня Коллега",
+				"logo":"null",
+				"title":"Ваня Коллега"
 			},
 			{
 				"id":1,
-				"logo":null, // set default placeholder
-				"title":"Ваня Коллега",
+				"title":"Ваня Коллега"
 			}
 		]
 	},
@@ -27,15 +26,14 @@
 			{
 				"id":1,
 				"logo":"https://pngimg.com/uploads/bmw_logo/bmw_logo_PNG19713.png",
-				"title":"Пропуск авто брата",
+				"title":"Пропуск авто брата"
 			}
 		]
 	},
 	{ 
-		// not grouped element
 		"id":1,
 		"logo":"https://pngimg.com/uploads/bmw_logo/bmw_logo_PNG19713.png",
-		"title":"Пропуск авто брата",
+		"title":"Пропуск авто брата"
 	},
 	{
 		"is_group":true,
@@ -44,12 +42,12 @@
 			{
 				"id":1,
 				"logo":"https://pngimg.com/uploads/bmw_logo/bmw_logo_PNG19713.png",
-				"title":"Пропуск авто брата",
+				"title":"Пропуск авто брата"
 			},
 			{
 				"id":1,
 				"logo":"https://pngimg.com/uploads/bmw_logo/bmw_logo_PNG19713.png",
-				"title":"Пропуск авто брата",
+				"title":"Пропуск авто брата"
 			}
 		]
 	}
