@@ -1,0 +1,125 @@
+[
+	{
+		"id":1,
+		"title":"Пропуска",
+		"is_enable":true,
+		"items":[
+			{
+				"id":2,
+				"title":"Изменение статуса",
+				"is_enable":true
+			},
+
+			{
+				"id":3,
+				"title":"Получение сообщений от оператора",
+				"is_enable":false
+			},
+
+			{
+				"id":4,
+				"title":"При входе на территорию",
+				"is_enable":false
+			},
+
+			{
+				"id":5,
+				"title":"Изменение статуса",
+				"is_enable":true
+			},
+
+			{
+				"id":6,
+				"title":"Получение сообщений от оператора",
+				"is_enable":false
+			}
+		]
+	},
+
+	{
+		"id":7,
+		"title":"Объекты",
+		"is_enable":false,
+		"items":[
+			{
+				"id":8,
+				"title":"Изменение статуса",
+				"is_enable":true
+			},
+
+			{
+				"id":9,
+				"title":"Получение сообщений от оператора",
+				"is_enable":false
+			},
+
+			{
+				"id":10,
+				"title":"При входе на территорию",
+				"is_enable":false
+			}
+		]
+	},
+
+	{
+		"id":1,
+		"title":"Доверенныве лица",
+		"is_enable":true,
+		"items":[
+			{
+				"id":2,
+				"title":"Изменение статуса",
+				"is_enable":true
+			},
+
+			{
+				"id":3,
+				"title":"Получение сообщений от оператора",
+				"is_enable":false
+			},
+
+			{
+				"id":4,
+				"title":"При входе на территорию",
+				"is_enable":false
+			},
+
+			{
+				"id":5,
+				"title":"Изменение статуса",
+				"is_enable":true
+			},
+
+			{
+				"id":6,
+				"title":"Получение сообщений от оператора",
+				"is_enable":false
+			}
+		]
+	},
+
+	{
+		"id":7,
+		"title":"Обращения",
+		"is_enable":false,
+		"items":[
+			{
+				"id":8,
+				"title":"Изменение статуса",
+				"is_enable":true
+			},
+
+			{
+				"id":9,
+				"title":"Получение сообщений от оператора",
+				"is_enable":false
+			},
+
+			{
+				"id":10,
+				"title":"При входе на территорию",
+				"is_enable":false
+			}
+		]
+	}
+]
