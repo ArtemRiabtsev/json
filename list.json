@@ -1,0 +1,73 @@
+[
+	{
+		"id":1,
+		"title":"ул. Ленина 28",
+		"tip":"УК Лучи",
+		"reason":null,
+		"phones":[
+			"+7 922 134 12 22",
+			"+7 922 134 12 22",
+			"+7 922 134 12 22"
+		],
+		"badge": {
+                "title":"Одобрен",
+                "colors":{
+                    "white":{
+                        "bgColor":"#2CC97E",
+                        "textColor":"#FFFFFF"
+                    },
+                    "black":{
+                        "bgColor":"#ACB7C4",
+                        "textColor":"#FFFFFF"
+                    }
+                }
+            }
+	},
+
+	{
+		"id":2,
+		"title":"ул. Ленина 29",
+		"tip":"УК Лучи",
+		"reason":null,
+		"phones":[
+			"+7 922 134 12 22"
+		],
+		"badge": {
+                "title":"На рассмотрении",
+                "colors":{
+                    "white":{
+                        "bgColor":"#F3AE47",
+                        "textColor":"#FFFFFF"
+                    },
+                    "black":{
+                        "bgColor":"#ACB7C4",
+                        "textColor":"#FFFFFF"
+                    }
+                }
+            }
+	},
+
+	{
+		"id":3,
+		"title":"ул. Ленина 30",
+		"tip":"УК Лучи",
+		"reason":"Причина: укажите вашу дату рождения",
+		"phones":[
+			"+7 922 134 12 22",
+			"+7 922 134 12 22"
+		],
+		"badge": {
+                "title":"Отклонен",
+                "colors":{
+                    "white":{
+                        "bgColor":"#E9403B",
+                        "textColor":"#FFFFFF"
+                    },
+                    "black":{
+                        "bgColor":"#ACB7C4",
+                        "textColor":"#FFFFFF"
+                    }
+                }
+            }
+	}
+]
