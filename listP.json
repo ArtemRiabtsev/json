@@ -1,0 +1,83 @@
+[
+	{
+		"id":1,
+		"title":"Петров Максим П.",
+		"tip":"До 27 июля 2021",
+		"reason":"Заканчивается через 4 часа",
+		"badge": {
+                "title":"Действителен",
+                "colors":{
+                    "white":{
+                        "bgColor":"#2CC97E",
+                        "textColor":"#FFFFFF"
+                    },
+                    "black":{
+                        "bgColor":"#ACB7C4",
+                        "textColor":"#FFFFFF"
+                    }
+                }
+            }
+	},
+
+    {
+        "id":2,
+        "title":"Петров Максим П.",
+        "tip":"До 27 июля 2021",
+        "reason":null,
+        "badge": {
+                "title":"Истек 27 июля",
+                "colors":{
+                    "white":{
+                        "bgColor":"#E9403B",
+                        "textColor":"#FFFFFF"
+                    },
+                    "black":{
+                        "bgColor":"#ACB7C4",
+                        "textColor":"#FFFFFF"
+                    }
+                }
+            }
+    },
+
+    {
+        "id":3,
+        "title":"Петров Максим П.",
+        "tip":"До 27 июля 2021",
+        "reason":null,
+        "badge": {
+                "title":"Анулирован",
+                "colors":{
+                    "white":{
+                        "bgColor":"#E9403B",
+                        "textColor":"#FFFFFF"
+                    },
+                    "black":{
+                        "bgColor":"#ACB7C4",
+                        "textColor":"#FFFFFF"
+                    }
+                }
+            }
+    },
+
+    {
+        "id":4,
+        "title":"Петров Максим П.",
+        "tip":"До 27 июля 2021",
+        "reason":"Заканчивается через 4 часа",
+        "badge": {
+                "title":"Действителен",
+                "colors":{
+                    "white":{
+                        "bgColor":"#2CC97E",
+                        "textColor":"#FFFFFF"
+                    },
+                    "black":{
+                        "bgColor":"#ACB7C4",
+                        "textColor":"#FFFFFF"
+                    }
+                }
+            }
+    }
+
+
+]
