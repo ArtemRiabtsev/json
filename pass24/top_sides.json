@@ -1,0 +1,74 @@
+{
+	"title": "BMW",
+	"allow_share":true,
+	"owner":{
+		"is_car":true,
+		"car":{
+			"car_logo":"https://pngimg.com/uploads/bmw_logo/bmw_logo_PNG19713.png",
+			"gosnumber":{
+				"regNo": "Н770АТ",
+                "region": "799",
+                "country": "ru"
+			},
+		}
+	},
+    "buttons": [
+      	{
+			"title":"Редактировать",
+			"action": {
+		        "path": "edit",
+		        "params": [
+		          {
+		            "key": "id",
+		            "value": 5
+		          },
+		          {
+		            "key": "type",
+		            "value": "Passes"
+		          }
+		        ]
+		      }
+		},
+		{
+			"title":"Добавить в избранное",
+			"action": {
+		        "path": "passes/favorites/form",
+		        "params": [
+		          {
+		            "key": "id",
+		            "value": 5
+		          }
+		        ]
+		      }
+		},
+		{
+			"title":"Удалить",
+			"icon":"remove",
+			"action": {
+		        "path": "delete",
+		        "params": [
+		          {
+		            "key": "id",
+		            "value": 5
+		          },
+		          {
+		            "key": "type",
+		            "value": "Passes"
+		          }
+		        ]
+		      }
+		}
+    ],
+    "tabs": [
+      {
+        "title": "Данные",
+        "action": {
+          "action": "data",
+          "params": {
+            "id": 5,
+            "type": "Passes"
+          }
+        }
+      }
+    ]
+}
