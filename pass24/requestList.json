@@ -1,0 +1,74 @@
+[
+	{
+		"title":"Временный пропуск",
+		"tip":"Заканчивается через 4 часа",
+		"badge": {
+                "title":"Действителен",
+                "colors":{
+                    "white":{
+                        "bgColor":"#2CC97E",
+                        "textColor":"#FFFFFF"
+                    },
+                    "black":{
+                        "bgColor":"#ACB7C4",
+                        "textColor":"#FFFFFF"
+                    }
+                }
+            },
+        "active_date":"2021-12-12T15:19:21+00:00",
+		"owner":{
+			"is_car":true,
+			"car":{
+				"car_logo":"https://pngimg.com/uploads/bmw_logo/bmw_logo_PNG19713.png",
+				"gosnumber":{
+					"regNo": "Н770АТ",
+	                "region": "799",
+	                "country": "ru"
+				}
+			}
+		}
+	},
+	{
+		"title":"Постоянный пропуск",
+		"tip":null,
+		"badge": {
+                "title":"На рассмотрении",
+                "colors":{
+                    "white":{
+                        "bgColor":"#6792FE",
+                        "textColor":"#FFFFFF"
+                    },
+                    "black":{
+                        "bgColor":"#ACB7C4",
+                        "textColor":"#FFFFFF"
+                    }
+                }
+            },
+        "active_date":"2022-02-12T15:19:21+00:00",
+		"owner":{
+			"is_car":false,
+			"user":{
+				"name":"Петров Максим",
+				"type":"Курьер"
+			}
+		}
+	},
+	{
+		"title":"Постоянный пропуск",
+		"tip":null,
+		"badge": {
+                "title":"Истек",
+                "colors":{
+                    "white":{
+                        "bgColor":"#E9403B",
+                        "textColor":"#FFFFFF"
+                    },
+                    "black":{
+                        "bgColor":"#ACB7C4",
+                        "textColor":"#FFFFFF"
+                    }
+                }
+            },
+        "active_date":"2022-02-12T15:19:21+00:00"
+	}
+]
