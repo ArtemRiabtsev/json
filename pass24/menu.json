@@ -1,0 +1,14 @@
+[
+	{
+		"title":"Постоянный пропуск",
+		"action": {
+	        "path": "passes/permanent/create"
+	     }
+	},
+	{
+		"title":"Временный пропуск",
+		"action": {
+	        "path": "passes/temp/create"
+	     }
+	}
+]
