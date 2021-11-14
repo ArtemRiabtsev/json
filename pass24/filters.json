@@ -1,0 +1,67 @@
+[
+	{
+		"type":"Пропуска",
+		"type_id":1,
+		"items":[
+			{
+              "label": "Адрес",
+              "name": "string",
+              "valueView": 3,
+              "type": "radioButton",
+              "values": [
+                  {
+                      "key": 1,
+                      "value": "Адрес 1"
+                  },
+                  {
+                      "key": 2,
+                      "value": "Адрес 2"
+                  },
+                  {
+                      "key": 3,
+                      "value": "Адрес 3"
+                  }
+              ]
+          	},
+          	{
+              "label": "Статус",
+              "name": "string",
+              "valueView": 1,
+              "type": "radioButton",
+              "values": [
+                  {
+                      "key": 1,
+                      "value": "Действителен"
+                  },
+                  {
+                      "key": 2,
+                      "value": "Истек"
+                  }
+              ]
+          	}
+		]
+	},
+	{
+		"type":"Доверенности",
+		"type_id":1,
+		"items":[
+          	{
+              "label": "Статус",
+              "name": "string",
+              "valueView": 1,
+              "type": "radioButton",
+              "values": [
+                  {
+                      "key": 1,
+                      "value": "Действителен"
+                  },
+                  {
+                      "key": 2,
+                      "value": "Истек"
+                  }
+              ]
+          	}
+		]
+	}
+
+]
