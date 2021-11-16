@@ -1,0 +1,34 @@
+{
+  "tip": "Эту информацию запрашивает объект ТЦ Рио",
+  "rules": {
+    "action": {
+          "path": "pages/view",
+          "params": [
+            {
+              "key": "id",
+              "value": 5
+            }
+          ]
+        }
+  },
+  "rows": [
+    {
+      "label": "ИНН",
+      "type": "text",
+      "name": "inn",
+      "valueView": null
+    },
+    {
+      "label": "Год рождения",
+      "type": "text",
+      "name": "birthday_year",
+      "valueView": "2010"
+    },
+    {
+      "label": "Как вас зовут?",
+      "type": "text",
+      "name": "text",
+      "valueView": null
+    }
+  ]
+}
